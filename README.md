@@ -2,8 +2,8 @@
 
 This repository contains raw data and output reports we used for the study.
 
-<!--* Query summary reports used for sensitivity analysis:
-    - [report\_kraken\_viral\_dist\_unmasked\_{confidence level}\_corrected\_{k-mer size}.tar.gz](https://github.com/noraracht/kraken_raw_data)-->
+* Query summary reports used for sensitivity analysis of different tools:
+    - [tool_comparison](https://github.com/noraracht/lsh_raw_data/tree/main/tool_comparison)
 
 
 <!--* Query summary reports and distance matrices used for simulation experiment with non overlapping contaminants:
