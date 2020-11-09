@@ -1,0 +1,161 @@
+-- Arguments supplied are 
+Map all_nbrhood_kmers_k32_p3l2clmn7_K15-map2-171_ToL 
+Query /oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M
+Threads 20
+k-mer count = 7999975120
+kmer count array 0  = 4000000000
+kmer count array 1  = 3999975120
+Sig array size = 15032385536
+Tag array size  = 2147483648
+Enc id array size  = 1879048192
+p = 3
+SL = 32
+L = 2
+alpha = 0.95
+Using K = 15
+Columns = 7
+Partitions = 4
+Sigs row count = 268435456
+Tag size = 2
+Tag mask = 3
+Big sig mask = 268435455
+-- Done sigs allocation 
+-- Done tag allocation 
+-- Done encoding array 0 allocation 
+-- Done encoding array 1 allocation 
+-- Done enc id allocation 
+Sigs read  : 15032385536
+Tags read  : 2147483648
+Encodings 0 read  : 4000000000
+Encodings 1 read  : 3999975120
+Enc id read  : 1879048192
+-- Done reading. Now matching. Time so far: 363 seconds
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/.. 0 0
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/. 0 0
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G001685465.fq 266668 66667
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G000007005.fq 266668 66531
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G000422285.fq 266668 66667
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G000190155.fq 266668 66664
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G000307305.fq 266668 66667
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G001717005.fq 266668 63665
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G000186365.fq 266668 60008
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G000016385.fq 266668 59835
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G000016525.fq 266668 63415
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G000221185.fq 266668 56904
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G000091665.fq 266668 57644
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G001484685.fq 266668 57894
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G000363885.fq 266668 66667
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G001918455.fq 266668 54121
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G001399695.fq 266668 66171
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G001508175.fq 266668 66203
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G000446015.fq 266668 61932
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G000245135.fq 266668 66661
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G000242875.fq 266668 47347
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G001516665.fq 266668 62769
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G000730285.fq 266668 39438
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G000220645.fq 266668 56372
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G001593925.fq 266668 33058
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G001776015.fq 266668 45112
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G000437835.fq 266668 61633
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G001004105.fq 266668 66667
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G000399765.fq 266668 58175
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G001729285.fq 266668 54951
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G000875775.fq 266668 52027
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G002011035.fq 266668 63471
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G001402855.fq 266668 66324
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G001577775.fq 266668 47773
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G000151105.fq 266668 60787
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G000166095.fq 266668 20953
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G001628455.fq 266668 66397
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G000389735.fq 266668 13263
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G000215995.fq 266668 36289
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G001481595.fq 266668 66667
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G000189555.fq 266668 65972
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G000018365.fq 266668 51985
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G001189275.fq 266668 28124
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G001515215.fq 266668 7934
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G000173675.fq 266668 66667
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G000009965.fq 266668 52593
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G001560165.fq 266668 66667
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G001316145.fq 266668 62393
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G000746745.fq 266668 66192
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G000022365.fq 266668 52842
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G001920575.fq 266668 63944
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G000007185.fq 266668 8223
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G001510225.fq 266668 59081
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G001560565.fq 266668 66667
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G000204585.fq 266668 58164
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G001940665.fq 266668 6479
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G001316265.fq 266668 62319
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G001918475.fq 266668 59335
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/250x_Bathycoccus_prasinos.fq 266668 5352
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G000019605.fq 266668 6019
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G001516745.fq 266668 63589
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G001317345.fq 266668 39887
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G001507935.fq 266668 61835
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G000402095.fq 266668 66667
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G000231015.fq 266668 61003
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G001399795.fq 266668 8563
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G000816105.fq 266668 49597
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G001595885.fq 266668 10591
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G000253055.fq 266668 22935
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G001887595.fq 266668 66667
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G900156635.fq 266668 66667
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/10x_Cca.fq 266668 2898
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G001679155.fq 266668 66667
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G000243455.fq 266668 51038
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G001627075.fq 266668 64827
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/2x_Zea_mays.fq 266668 1262
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G000145295.fq 266668 48381
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G001856825.fq 266668 7607
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G001919175.fq 266668 64334
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G001516725.fq 266668 65034
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G000770635.fq 266668 66667
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/10x_Cil.fq 266668 2989
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G001628475.fq 266668 56554
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G001587655.fq 266668 64604
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G000302455.fq 266668 44563
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G001674955.fq 266668 57008
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/10x_Oryza_sativa.fq 266668 2530
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G001563335.fq 266668 16958
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G900109425.fq 266668 66582
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G001510275.fq 266668 58793
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G002009975.fq 266668 26487
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G000421185.fq 266668 66667
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G001723845.fq 266668 19109
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/5x_Coffee_arabica.fq 266668 1934
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G000966265.fq 266668 35530
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G001510295.fq 266668 60389
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G001914405.fq 266668 7743
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G001438895.fq 266668 66543
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G001316025.fq 266668 47967
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G000024305.fq 266668 64751
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G001940645.fq 266668 5770
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/2x_Nicotiana_sylvestris.fq 266668 1668
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G001412615.fq 266668 12313
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G000495715.fq 266668 65051
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/15x_Arabidopsis_lyrata.fq 266668 3827
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G002011075.fq 266668 5304
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G000195935.fq 266668 35342
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G000011125.fq 266668 34484
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G000223395.fq 266668 6545
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G000317795.fq 266668 10300
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G001870125.fq 266668 14102
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G000017185.fq 266668 33253
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/10x_Prunus_persica.fq 266668 4060
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G000830275.fq 266668 7495
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G001316045.fq 266668 19341
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G000830295.fq 266668 7169
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G000375685.fq 266668 10375
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G001315825.fq 266668 17303
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G000264495.fq 266668 11013
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G000955905.fq 266668 24290
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/20x_Arabidopsis_thaliana.fq 266668 2249
+/oasis/scratch/comet/erachtma/temp_project/simul/excluded_fna_fq_downSmpl10M/G001940655.fq 266668 3407
+-- Done matching for all. Time so far: 567 seconds
+
+real	9m28.007s
+user	47m40.109s
+sys	7m44.774s
+slurmstepd: Exceeded step memory limit at some point.
+slurmstepd: Exceeded job memory limit at some point.
