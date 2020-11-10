@@ -16,9 +16,7 @@ This repository contains raw data and output reports we used for the study.
 
 
 * Query summary reports for GORG samples:
-    - **Default settings:** 
-        -[kraken results](https://github.com/noraracht/lsh_raw_data/tree/main/gorg_default_kraken)
-        -[consult results](https://github.com/noraracht/lsh_raw_data/tree/main/gorg_default_consult)
+    - Default settings: [kraken](https://github.com/noraracht/lsh_raw_data/tree/main/gorg_default_kraken and [consult](https://github.com/noraracht/lsh_raw_data/tree/main/gorg_default_consult) results
     - [bin 00-05](https://drive.google.com/file/d/1KSVb4cUniOavCVKEsiekOkBfDZqrfIuW/view?usp=sharing)
     - [bin 05-15](https://drive.google.com/file/d/1F2xo9C1KK7dNxlBvpgDOYPtN7wYnO8ih/view?usp=sharing)
     - [bin 15-25](https://drive.google.com/file/d/1gEsUUhXMZmwibN4JFod2YArOVDisrJzH/view?usp=sharing)
