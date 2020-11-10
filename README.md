@@ -16,10 +16,16 @@ This repository contains raw data and output reports we used for the study.
 
 
 * Query summary reports for GORG samples searched against TOL, GTDB and Bact/Arch Kraken using CONSULT:
-    - [*p* = 3, *c* = 1](https://github.com/noraracht/lsh_raw_data/tree/main/gorg_default_consult)
-    - [bin 00-05](https://drive.google.com/file/d/1KSVb4cUniOavCVKEsiekOkBfDZqrfIuW/view?usp=sharing)
-    - [bin 05-15](https://drive.google.com/file/d/1F2xo9C1KK7dNxlBvpgDOYPtN7wYnO8ih/view?usp=sharing)
-    - [bin 15-25](https://drive.google.com/file/d/1gEsUUhXMZmwibN4JFod2YArOVDisrJzH/view?usp=sharing)
+    - [*m* = 3, *c* = 1](https://github.com/noraracht/lsh_raw_data/tree/main/gorg_default_consult)
+    - [*m* = 3, *c* = 2](https://github.com/noraracht/lsh_raw_data/tree/main/gorg_default_consult)
+    - [*m* = 4, *c* = 2](https://github.com/noraracht/lsh_raw_data/tree/main/gorg_default_consult)
+
+* Query summary reports for GORG samples searched against TOL, GTDB and Bact/Arch Kraken using Kraken:
+    - [conf = 0.00](https://github.com/noraracht/lsh_raw_data/tree/main/gorg_default_consult)
+    - [conf = 0.02](https://github.com/noraracht/lsh_raw_data/tree/main/gorg_default_consult)
+    - [conf = 0.05](https://github.com/noraracht/lsh_raw_data/tree/main/gorg_default_consult)
+   
+    
 
 
 <!--* Query summary reports and distance matrices used for simulation experiment with overlapping contaminants:
