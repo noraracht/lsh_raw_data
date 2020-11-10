@@ -11,14 +11,15 @@ This repository contains raw data and output reports we used for the study.
 
 
 * Runtime comparison for different tools:
-    - [runtime_analysis](https://github.com/noraracht/lsh_raw_data/tree/main/runtime)
+    - [Drosophila samples](https://github.com/noraracht/lsh_raw_data/tree/main/runtime/dros_queries)
+    - [TOL samples](https://github.com/noraracht/lsh_raw_data/tree/main/runtime/tol_queries)
 
 
 * Query summary reports for GORG samples:
     - [bin 00-00](https://drive.google.com/file/d/1SBa9yRFuZqo1EdneLwl4E4N2Dju8d8jT/view?usp=sharing)
     - [bin 00-05](https://drive.google.com/file/d/1KSVb4cUniOavCVKEsiekOkBfDZqrfIuW/view?usp=sharing)
     - [bin 05-15](https://drive.google.com/file/d/1F2xo9C1KK7dNxlBvpgDOYPtN7wYnO8ih/view?usp=sharing)
-    - [bin 15-25](https://drive.google.com/file/d/1gEsUUhXMZmwibN4JFod2YArOVDisrJzH/view?usp=sharing)-->
+    - [bin 15-25](https://drive.google.com/file/d/1gEsUUhXMZmwibN4JFod2YArOVDisrJzH/view?usp=sharing)
 
 
 <!--* Query summary reports and distance matrices used for simulation experiment with overlapping contaminants:
