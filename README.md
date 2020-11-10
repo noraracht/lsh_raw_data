@@ -6,8 +6,8 @@ This repository contains raw data and output reports we used for the study.
     - [tool_comparison](https://github.com/noraracht/lsh_raw_data/tree/main/tool_comparison)
 
 
-<!--* Query summary reports and distance matrices used for simulation experiment with non overlapping contaminants:
-    - [Drosophila_contam_non_overlap_exp.zip](https://github.com/noraracht/kraken_raw_data/blob/master/Drosophila_contam_non_overlap_exp.zip)-->
+* Runtime analysis log outputs:
+    - [runtime_analysis](https://github.com/noraracht/lsh_raw_data/tree/main/runtime)-->
 
 
 <!--* Genome skims used for simulation experiment with non overlapping contaminants:
