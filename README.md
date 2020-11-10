@@ -3,7 +3,11 @@
 This repository contains raw data and output reports we used for the study.
 
 * Query summary reports used for sensitivity analysis of different tools:
-    - [tool_comparison](https://github.com/noraracht/lsh_raw_data/tree/main/tool_comparison)
+    - [CLARK](https://github.com/noraracht/lsh_raw_data/tree/main/tool_comparison/result_clark_ToL_all_df_10Mqueries_10470fna)
+    - [CLARK-S](https://github.com/noraracht/lsh_raw_data/tree/main/tool_comparison/result_clark_S_ToL_all_df_10Mqueries)
+    - [Bowtie](https://github.com/noraracht/lsh_raw_data/tree/main/tool_comparison/result_bowtie_ToL_all_df_10Mqueries_stats)
+    - [CONSULT(]https://github.com/noraracht/lsh_raw_data/tree/main/tool_comparison/report_consult_tol_10Mqueries)
+    - [Kraken](https://github.com/noraracht/lsh_raw_data/tree/main/tool_comparison/report_kraken_ToL_noViral_all_k35l31s7_unmasked_0.0_query10M)
 
 
 * Runtime comparison for different tools:
