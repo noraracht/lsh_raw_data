@@ -14,7 +14,7 @@ This repository contains raw data and output reports we used for the study.
     - [runtime_analysis](https://github.com/noraracht/lsh_raw_data/tree/main/runtime)
 
 
-<!--* Genome skims used for simulation experiment with non overlapping contaminants:
+* Query summary reports for GORG samples:
     - [bin 00-00](https://drive.google.com/file/d/1SBa9yRFuZqo1EdneLwl4E4N2Dju8d8jT/view?usp=sharing)
     - [bin 00-05](https://drive.google.com/file/d/1KSVb4cUniOavCVKEsiekOkBfDZqrfIuW/view?usp=sharing)
     - [bin 05-15](https://drive.google.com/file/d/1F2xo9C1KK7dNxlBvpgDOYPtN7wYnO8ih/view?usp=sharing)
