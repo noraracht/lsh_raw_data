@@ -11,7 +11,7 @@ This repository contains raw data and output reports we used for the study.
 
 
 * Query summary reports for GORG samples searched against TOL, GTDB and Bact/Arch Kraken using CONSULT:
-    - [*m* = 3, *c* = 1](https://github.com/noraracht/lsh_raw_data/tree/main/gorg_p3c1_consult)
+    - [*m* = 3, *c* = 1](https://github.com/noraracht/lsh_raw_data/tree/main/gorg_p3c1_consult)    - [FP, *m* = 3, *c* = 1](https://github.com/noraracht/lsh_raw_data/tree/main/gorg_p3c1_consult)
     - [*m* = 3, *c* = 2](https://github.com/noraracht/lsh_raw_data/tree/main/gorg_p3c2_consult)
     - [*m* = 4, *c* = 2](https://github.com/noraracht/lsh_raw_data/tree/main/gorg_p4c2_consult)
 
