@@ -15,8 +15,8 @@ This repository contains raw data and output reports we used for the study.
     - [TOL queries](https://github.com/noraracht/lsh_raw_data/tree/main/runtime/tol_queries)
 
 
-* Query summary reports for GORG samples:
-    - Default settings: [kraken](https://github.com/noraracht/lsh_raw_data/tree/main/gorg_default_kraken) and [consult](https://github.com/noraracht/lsh_raw_data/tree/main/gorg_default_consult) results
+* Query summary reports for GORG samples searched against TOL, GTDB and Bact/Arch Kraken using CONSULT:
+    - [*p* = 3, *c* = 1](https://github.com/noraracht/lsh_raw_data/tree/main/gorg_default_consult)
     - [bin 00-05](https://drive.google.com/file/d/1KSVb4cUniOavCVKEsiekOkBfDZqrfIuW/view?usp=sharing)
     - [bin 05-15](https://drive.google.com/file/d/1F2xo9C1KK7dNxlBvpgDOYPtN7wYnO8ih/view?usp=sharing)
     - [bin 15-25](https://drive.google.com/file/d/1gEsUUhXMZmwibN4JFod2YArOVDisrJzH/view?usp=sharing)
