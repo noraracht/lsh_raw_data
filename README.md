@@ -24,6 +24,13 @@ This repository contains raw data and output reports we used for the study.
     - [kraken]()
     - [consult]()
     
+* Extended parameter titration performed with GORG samples queried using GTDB with different settings:
+    - p3, p4, p5, p6
+    - c1, c2, c3, c4
+    
+* Filtering of real Drosophila genome skims:
+   
+    
    
     
 
