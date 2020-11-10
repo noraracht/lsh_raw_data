@@ -32,7 +32,8 @@ This repository contains raw data and output reports we used for the study.
    
     
    
-    
+<!--* Query summary reports and distance matrices used for simulation experiment with overlapping contaminants:
+    - [Dros_contam_overlap_k35_conf0.0.zip](https://github.com/noraracht/kraken_raw_data/blob/master/Dros_contam_overlap_k35_conf0.0.zip)-->
 
 
 <!--* Query summary reports and distance matrices used for simulation experiment with overlapping contaminants:
