@@ -10,7 +10,7 @@ This repository contains raw data and output reports we used for the study.
     - [Kraken](https://github.com/noraracht/lsh_raw_data/tree/main/tool_comparison/report_kraken_ToL_noViral_all_k35l31s7_unmasked_0.0_query10M)
 
 
-* Runtime comparison for different tools:
+* Runtime comparison of different tools:
     - [Drosophila samples](https://github.com/noraracht/lsh_raw_data/tree/main/runtime/dros_queries)
     - [TOL samples](https://github.com/noraracht/lsh_raw_data/tree/main/runtime/tol_queries)
 
