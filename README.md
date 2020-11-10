@@ -11,8 +11,7 @@ This repository contains raw data and output reports we used for the study.
 
 
 * Runtime comparison of different tools:
-    - [Drosophila queries](https://github.com/noraracht/lsh_raw_data/tree/main/runtime/dros_queries)
-    - [TOL queries](https://github.com/noraracht/lsh_raw_data/tree/main/runtime/tol_queries)
+    - [runtime results](https://github.com/noraracht/lsh_raw_data/tree/main/runtime)
 
 
 * Query summary reports for GORG samples:
