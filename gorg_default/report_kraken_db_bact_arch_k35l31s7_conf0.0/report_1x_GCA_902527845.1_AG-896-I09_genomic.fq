@@ -1,0 +1,84 @@
+ 74.10	103	103	U	0	unclassified
+ 25.90	36	0	R	1	root
+ 25.90	36	0	R1	131567	  cellular organisms
+ 25.90	36	0	D	2	    Bacteria
+ 10.07	14	0	D1	1783272	      Terrabacteria group
+  7.91	11	0	P	1239	        Firmicutes
+  5.04	7	0	C	91061	          Bacilli
+  3.60	5	1	O	1385	            Bacillales
+  1.44	2	0	F	186817	              Bacillaceae
+  1.44	2	1	G	1386	                Bacillus
+  0.72	1	1	S	1581038	                  Bacillus sp. FJAT-22090
+  1.44	2	0	F	186822	              Paenibacillaceae
+  1.44	2	0	G	329857	                Cohnella
+  1.44	2	2	S	2507935	                  Cohnella sp. HS21
+  1.44	2	2	O	186826	            Lactobacillales
+  2.88	4	0	C	186801	          Clostridia
+  2.88	4	1	O	186802	            Clostridiales
+  2.16	3	0	F	31979	              Clostridiaceae
+  2.16	3	0	G	1485	                Clostridium
+  1.44	2	2	S	394958	                  Clostridium taeniosporum
+  0.72	1	1	S	1488	                  Clostridium acetobutylicum
+  2.16	3	0	P	544448	        Tenericutes
+  2.16	3	0	C	31969	          Mollicutes
+  1.44	2	0	O	2085	            Mycoplasmatales
+  1.44	2	0	F	2092	              Mycoplasmataceae
+  1.44	2	2	G	2093	                Mycoplasma
+  0.72	1	0	O	186328	            Entomoplasmatales
+  0.72	1	0	F	2131	              Spiroplasmataceae
+  0.72	1	0	G	2132	                Spiroplasma
+  0.72	1	1	S	2143	                  Spiroplasma gladiatoris
+  9.35	13	0	P	1224	      Proteobacteria
+  5.04	7	0	C	1236	        Gammaproteobacteria
+  2.88	4	0	O	135619	          Oceanospirillales
+  2.88	4	0	F	28256	            Halomonadaceae
+  2.88	4	0	F1	114403	              Zymobacter group
+  2.88	4	0	G	114185	                Candidatus Carsonella
+  2.88	4	0	S	114186	                  Candidatus Carsonella ruddii
+  2.16	3	3	S1	1202539	                    Candidatus Carsonella ruddii HT isolate Thao2000
+  0.72	1	0	S1	134277	                    primary endosymbiont of Heteropsylla cubana
+  0.72	1	1	S2	1202538	                      Candidatus Carsonella ruddii HC isolate Thao2000
+  2.16	3	0	O	91347	          Enterobacterales
+  1.44	2	0	F	1903409	            Erwiniaceae
+  1.44	2	0	G	32199	              Buchnera
+  1.44	2	0	S	9	                Buchnera aphidicola
+  1.44	2	0	S1	261318	                  Buchnera aphidicola (Cinara cedri)
+  1.44	2	2	S2	372461	                    Buchnera aphidicola BCc
+  0.72	1	0	F	543	            Enterobacteriaceae
+  0.72	1	0	G	590	              Salmonella
+  0.72	1	0	S	28901	                Salmonella enterica
+  0.72	1	0	S1	59204	                  Salmonella enterica subsp. diarizonae
+  0.72	1	0	S2	1243611	                    Salmonella enterica subsp. diarizonae serovar 50:k:z
+  0.72	1	1	S3	1243612	                      Salmonella enterica subsp. diarizonae serovar 50:k:z str. MZ0080
+  4.32	6	0	C	28211	        Alphaproteobacteria
+  3.60	5	0	O	54526	          Pelagibacterales
+  3.60	5	0	F	1655514	            Pelagibacteraceae
+  3.60	5	0	F1	1655516	              unclassified Pelagibacteraceae
+  3.60	5	5	S	744985	                alpha proteobacterium HIMB59
+  0.72	1	0	O	356	          Rhizobiales
+  0.72	1	0	F	772	            Bartonellaceae
+  0.72	1	0	G	773	              Bartonella
+  0.72	1	1	S	1933904	                Bartonella sp. WD16.2
+  4.32	6	0	D1	1783270	      FCB group
+  4.32	6	0	D2	68336	        Bacteroidetes/Chlorobi group
+  4.32	6	0	P	976	          Bacteroidetes
+  3.60	5	0	C	117743	            Flavobacteriia
+  3.60	5	0	O	200644	              Flavobacteriales
+  3.60	5	0	F	49546	                Flavobacteriaceae
+  1.44	2	0	G	237	                  Flavobacterium
+  1.44	2	2	S	1763534	                    Flavobacterium crassostreae
+  1.44	2	1	G	59732	                  Chryseobacterium
+  0.72	1	1	S	246	                    Chryseobacterium balustinum
+  0.72	1	0	G	527198	                  Mariniflexile
+  0.72	1	1	S	2027857	                    Mariniflexile sp. TRM1-10
+  0.72	1	0	C	768503	            Cytophagia
+  0.72	1	0	O	768507	              Cytophagales
+  0.72	1	0	F	200667	                Flammeovirgaceae
+  0.72	1	0	G	59739	                  Flammeovirga
+  0.72	1	1	S	1191459	                    Flammeovirga sp. MY04
+  2.16	3	0	P	32066	      Fusobacteria
+  2.16	3	0	C	203490	        Fusobacteriia
+  2.16	3	0	O	203491	          Fusobacteriales
+  2.16	3	0	F	203492	            Fusobacteriaceae
+  2.16	3	0	G	848	              Fusobacterium
+  2.16	3	3	S	860	                Fusobacterium periodonticum

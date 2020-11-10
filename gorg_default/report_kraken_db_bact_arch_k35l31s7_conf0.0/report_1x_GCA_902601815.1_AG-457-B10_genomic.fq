@@ -1,0 +1,95 @@
+ 17.66	196	196	U	0	unclassified
+ 82.34	914	0	R	1	root
+ 82.34	914	0	R1	131567	  cellular organisms
+ 82.34	914	4	D	2	    Bacteria
+ 80.63	895	5	D1	1783272	      Terrabacteria group
+ 79.55	883	0	D2	1798711	        Cyanobacteria/Melainabacteria group
+ 79.55	883	4	P	1117	          Cyanobacteria
+ 78.83	875	1	O	1890424	            Synechococcales
+ 78.74	874	0	F	1213	              Prochloraceae
+ 78.74	874	151	G	1218	                Prochlorococcus
+ 56.49	627	72	S	1219	                  Prochlorococcus marinus
+ 19.46	216	216	S1	74546	                    Prochlorococcus marinus str. MIT 9312
+ 11.35	126	126	S1	93060	                    Prochlorococcus marinus str. MIT 9215
+  9.37	104	104	S1	167546	                    Prochlorococcus marinus str. MIT 9301
+  7.21	80	80	S1	146891	                    Prochlorococcus marinus str. AS9601
+  1.89	21	0	S1	142479	                    Prochlorococcus marinus subsp. pastoris
+  1.89	21	21	S2	59919	                      Prochlorococcus marinus subsp. pastoris str. CCMP1986
+  0.72	8	8	S1	167542	                    Prochlorococcus marinus str. MIT 9515
+  8.56	95	95	S	1501268	                  Prochlorococcus sp. MIT 0604
+  0.09	1	1	S	1501269	                  Prochlorococcus sp. MIT 0801
+  0.27	3	1	O	1161	            Nostocales
+  0.09	1	0	F	1182	              Scytonemataceae
+  0.09	1	1	G	1203	                Scytonema
+  0.09	1	0	F	1185	              Rivulariaceae
+  0.09	1	0	G	1186	                Calothrix
+  0.09	1	1	S	99598	                  Calothrix sp. PCC 7507
+  0.09	1	0	O	1890505	            Chroococcidiopsidales
+  0.09	1	0	F	1890528	              Chroococcidiopsidaceae
+  0.09	1	0	G	54298	                Chroococcidiopsis
+  0.09	1	0	S	54299	                  Chroococcidiopsis thermalis
+  0.09	1	1	S1	251229	                    Chroococcidiopsis thermalis PCC 7203
+  0.63	7	0	P	1239	        Firmicutes
+  0.63	7	1	C	91061	          Bacilli
+  0.45	5	0	O	1385	            Bacillales
+  0.45	5	0	F	186817	              Bacillaceae
+  0.45	5	3	G	1386	                Bacillus
+  0.18	2	0	S	1404	                  Bacillus megaterium
+  0.18	2	2	S1	1452722	                    Bacillus megaterium Q3
+  0.09	1	0	O	186826	            Lactobacillales
+  0.09	1	0	F	33958	              Lactobacillaceae
+  0.09	1	0	G	1578	                Lactobacillus
+  0.09	1	1	S	33959	                  Lactobacillus johnsonii
+  0.45	5	0	D1	1783270	      FCB group
+  0.45	5	0	D2	68336	        Bacteroidetes/Chlorobi group
+  0.45	5	0	P	976	          Bacteroidetes
+  0.36	4	0	C	117743	            Flavobacteriia
+  0.36	4	0	O	200644	              Flavobacteriales
+  0.36	4	0	F	49546	                Flavobacteriaceae
+  0.18	2	0	G	76831	                  Myroides
+  0.18	2	2	S	480520	                    Myroides profundi
+  0.09	1	0	G	237	                  Flavobacterium
+  0.09	1	0	S	312277	                    Flavobacterium indicum
+  0.09	1	1	S1	1094466	                      Flavobacterium indicum GPTSA100-9 = DSM 17447
+  0.09	1	0	G	527198	                  Mariniflexile
+  0.09	1	1	S	2027857	                    Mariniflexile sp. TRM1-10
+  0.09	1	0	C	768503	            Cytophagia
+  0.09	1	0	O	768507	              Cytophagales
+  0.09	1	0	F	89373	                Cytophagaceae
+  0.09	1	0	G	1664383	                  Pseudarcicella
+  0.09	1	1	S	2183547	                    Pseudarcicella sp. HME7025
+  0.45	5	0	P	1224	      Proteobacteria
+  0.45	5	0	C	1236	        Gammaproteobacteria
+  0.18	2	0	O	91347	          Enterobacterales
+  0.18	2	0	F	1903414	            Morganellaceae
+  0.18	2	0	G	586	              Providencia
+  0.18	2	2	S	2027290	                Providencia sp. WCHPr000369
+  0.09	1	0	O	72274	          Pseudomonadales
+  0.09	1	0	F	468	            Moraxellaceae
+  0.09	1	0	G	469	              Acinetobacter
+  0.09	1	1	S	2004650	                Acinetobacter sp. WCHAc010005
+  0.09	1	0	O	118969	          Legionellales
+  0.09	1	0	F	444	            Legionellaceae
+  0.09	1	0	G	445	              Legionella
+  0.09	1	0	S	96230	                Legionella fallonii
+  0.09	1	1	S1	1212491	                  Legionella fallonii LLAP-10
+  0.09	1	0	O	135619	          Oceanospirillales
+  0.09	1	0	F	28256	            Halomonadaceae
+  0.09	1	0	F1	114403	              Zymobacter group
+  0.09	1	0	G	114185	                Candidatus Carsonella
+  0.09	1	1	S	114186	                  Candidatus Carsonella ruddii
+  0.36	4	0	P	32066	      Fusobacteria
+  0.36	4	0	C	203490	        Fusobacteriia
+  0.36	4	0	O	203491	          Fusobacteriales
+  0.36	4	0	F	203492	            Fusobacteriaceae
+  0.36	4	0	G	848	              Fusobacterium
+  0.36	4	0	S	851	                Fusobacterium nucleatum
+  0.36	4	0	S1	76859	                  Fusobacterium nucleatum subsp. animalis
+  0.36	4	4	S2	457405	                    Fusobacterium nucleatum subsp. animalis 7_1
+  0.09	1	0	P	68297	      Dictyoglomi
+  0.09	1	0	C	203486	        Dictyoglomia
+  0.09	1	0	O	203487	          Dictyoglomales
+  0.09	1	0	F	203488	            Dictyoglomaceae
+  0.09	1	0	G	13	              Dictyoglomus
+  0.09	1	0	S	513050	                Dictyoglomus turgidum
+  0.09	1	1	S1	515635	                  Dictyoglomus turgidum DSM 6724

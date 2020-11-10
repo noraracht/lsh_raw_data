@@ -1,0 +1,84 @@
+ 81.99	132	132	U	0	unclassified
+ 18.01	29	0	R	1	root
+ 18.01	29	0	R1	131567	  cellular organisms
+ 17.39	28	1	D	2	    Bacteria
+ 10.56	17	3	P	1224	      Proteobacteria
+  6.83	11	0	C	1236	        Gammaproteobacteria
+  5.59	9	0	O	72274	          Pseudomonadales
+  5.59	9	0	F	468	            Moraxellaceae
+  5.59	9	1	G	469	              Acinetobacter
+  2.48	4	0	G1	909768	                Acinetobacter calcoaceticus/baumannii complex
+  2.48	4	1	S	470	                  Acinetobacter baumannii
+  1.86	3	3	S1	509173	                    Acinetobacter baumannii AYE
+  1.86	3	3	S	487316	                Acinetobacter soli
+  0.62	1	1	S	1879050	                Acinetobacter wuhouensis
+  1.24	2	0	O	118969	          Legionellales
+  1.24	2	0	F	444	            Legionellaceae
+  1.24	2	0	G	445	              Legionella
+  1.24	2	2	S	446	                Legionella pneumophila
+  0.62	1	0	C	28211	        Alphaproteobacteria
+  0.62	1	0	O	766	          Rickettsiales
+  0.62	1	0	F	942	            Anaplasmataceae
+  0.62	1	0	F1	952	              Wolbachieae
+  0.62	1	1	G	953	                Wolbachia
+  0.62	1	0	P1	68525	        delta/epsilon subdivisions
+  0.62	1	0	C	29547	          Epsilonproteobacteria
+  0.62	1	0	O	213849	            Campylobacterales
+  0.62	1	0	F	72294	              Campylobacteraceae
+  0.62	1	0	G	194	                Campylobacter
+  0.62	1	0	S	827	                  Campylobacter ureolyticus
+  0.62	1	1	S1	1032069	                    Campylobacter ureolyticus RIGS 9880
+  0.62	1	0	C	1553900	        Oligoflexia
+  0.62	1	0	O	2024979	          Bacteriovoracales
+  0.62	1	0	F	1652132	            Halobacteriovoraceae
+  0.62	1	0	G	1652133	              Halobacteriovorax
+  0.62	1	1	S	97084	                Halobacteriovorax marinus
+  4.97	8	0	D1	1783272	      Terrabacteria group
+  2.48	4	0	P	1239	        Firmicutes
+  1.86	3	0	C	91061	          Bacilli
+  1.24	2	0	O	1385	            Bacillales
+  1.24	2	0	F	186817	              Bacillaceae
+  1.24	2	0	G	1386	                Bacillus
+  1.24	2	0	S	79885	                  Bacillus pseudofirmus
+  1.24	2	2	S1	398511	                    Bacillus pseudofirmus OF4
+  0.62	1	0	O	186826	            Lactobacillales
+  0.62	1	0	F	33958	              Lactobacillaceae
+  0.62	1	0	G	1578	                Lactobacillus
+  0.62	1	1	S	53444	                  Lactobacillus lindneri
+  0.62	1	0	C	186801	          Clostridia
+  0.62	1	0	O	186802	            Clostridiales
+  0.62	1	0	F	186804	              Peptostreptococcaceae
+  0.62	1	0	G	186831	                Acetoanaerobium
+  0.62	1	1	S	1511	                  Acetoanaerobium sticklandii
+  1.24	2	0	D2	1798711	        Cyanobacteria/Melainabacteria group
+  1.24	2	0	P	1117	          Cyanobacteria
+  1.24	2	0	P1	1301283	            Oscillatoriophycideae
+  1.24	2	0	O	1118	              Chroococcales
+  1.24	2	0	F	1890450	                Aphanothecaceae
+  1.24	2	0	G	1453359	                  Candidatus Atelocyanobacterium
+  1.24	2	0	S	713887	                    Candidatus Atelocyanobacterium thalassa
+  1.24	2	2	S1	1453429	                      Candidatus Atelocyanobacterium thalassa isolate ALOHA
+  0.62	1	0	P	200795	        Chloroflexi
+  0.62	1	0	C	189775	          Thermomicrobia
+  0.62	1	0	C1	85000	            Sphaerobacteridae
+  0.62	1	0	O	85001	              Sphaerobacterales
+  0.62	1	0	O1	255728	                Sphaerobacterineae
+  0.62	1	0	F	85002	                  Sphaerobacteraceae
+  0.62	1	0	G	2056	                    Sphaerobacter
+  0.62	1	0	S	2057	                      Sphaerobacter thermophilus
+  0.62	1	1	S1	479434	                        Sphaerobacter thermophilus DSM 20745
+  0.62	1	0	P	544448	        Tenericutes
+  0.62	1	0	C	31969	          Mollicutes
+  0.62	1	0	O	186329	            Acholeplasmatales
+  0.62	1	0	F	2146	              Acholeplasmataceae
+  0.62	1	0	G	33926	                Candidatus Phytoplasma
+  0.62	1	0	G1	85632	                  16SrXII (Stolbur group)
+  0.62	1	1	S	59748	                    Candidatus Phytoplasma australiense
+  1.24	2	0	D1	1783270	      FCB group
+  1.24	2	0	D2	68336	        Bacteroidetes/Chlorobi group
+  1.24	2	0	P	976	          Bacteroidetes
+  1.24	2	0	C	200643	            Bacteroidia
+  1.24	2	0	O	171549	              Bacteroidales
+  1.24	2	0	F	815	                Bacteroidaceae
+  1.24	2	2	G	816	                  Bacteroides
+  0.62	1	1	D	2157	    Archaea
