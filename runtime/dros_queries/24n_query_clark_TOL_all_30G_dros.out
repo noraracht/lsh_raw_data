@@ -1,0 +1,15 @@
+CLARK version 1.2.6.1 (UCR CS&E. Copyright 2013-2019 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/oasis/scratch/comet/erachtma/temp_project/clark_databases/custom_5/db_central_k31_t151_s1610612741_m0.tsk.*] ...
+Loading done (database size: 158772 MB read, with sampling factor 2)
+Mode: Default,	Processing file: dros_30G_merged.fastq,	 using 24 CPU.
+ - Assignment time: 1902.57 s. Speed: 6307272 objects/min. (200000010 objects).
+ - Results stored in /oasis/scratch/comet/erachtma/temp_project/simul/runtime_clark/result_dros_30G_merged.fastq.csv
+
+real	42m25.032s
+user	328m27.670s
+sys	41m59.831s
+
+real	42m25.033s
+user	328m27.670s
+sys	41m59.831s
+slurmstepd: Exceeded step memory limit at some point.

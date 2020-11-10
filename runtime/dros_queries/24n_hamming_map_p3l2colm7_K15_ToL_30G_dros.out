@@ -1,0 +1,89 @@
+Option -c has arg: 0
+-- Arguments supplied are 
+Map all_nbrhood_kmers_k32_p3l2clmn7_K15-map2-171_ToL 
+Query /oasis/scratch/comet/erachtma/temp_project/dros_runtime/split
+Threads 24
+cvalue 0
+k-mer count = 7999975120
+kmer count array 0  = 4000000000
+kmer count array 1  = 3999975120
+Sig array size = 15032385536
+Tag array size  = 2147483648
+Enc id array size  = 1879048192
+p = 3
+SL = 32
+L = 2
+alpha = 0.95
+Using K = 15
+Columns = 7
+Partitions = 4
+Sigs row count = 268435456
+Tag size = 2
+Tag mask = 3
+Big sig mask = 268435455
+-- Done sigs allocation 
+-- Done tag allocation 
+-- Done encoding array 0 allocation 
+-- Done encoding array 1 allocation 
+-- Done enc id allocation 
+Sigs read  : 15032385536
+Tags read  : 2147483648
+Encodings 0 read  : 4000000000
+Encodings 1 read  : 3999975120
+Enc id read  : 1879048192
+-- Done reading. Now matching. Time so far: 101 seconds
+/oasis/scratch/comet/erachtma/temp_project/dros_runtime/split/.. 0 0
+/oasis/scratch/comet/erachtma/temp_project/dros_runtime/split/. 0 0
+/oasis/scratch/comet/erachtma/temp_project/dros_runtime/split/dros_30G_merged_p.bm.fastq 16658398 4164600
+/oasis/scratch/comet/erachtma/temp_project/dros_runtime/split/dros_30G_merged_p.ai.fastq 16657364 4164341
+/oasis/scratch/comet/erachtma/temp_project/dros_runtime/split/dros_30G_merged_p.ad.fastq 16676052 4169013
+/oasis/scratch/comet/erachtma/temp_project/dros_runtime/split/dros_30G_merged_p.ae.fastq 16661430 4165358
+/oasis/scratch/comet/erachtma/temp_project/dros_runtime/split/dros_30G_merged_p.ak.fastq 16674104 4168526
+/oasis/scratch/comet/erachtma/temp_project/dros_runtime/split/dros_30G_merged_p.aq.fastq 16672394 4168099
+/oasis/scratch/comet/erachtma/temp_project/dros_runtime/split/dros_30G_merged_p.ap.fastq 16655356 4163839
+/oasis/scratch/comet/erachtma/temp_project/dros_runtime/split/dros_30G_merged_p.bu.fastq 16660068 4165017
+/oasis/scratch/comet/erachtma/temp_project/dros_runtime/split/dros_30G_merged_p.as.fastq 16666976 4166744
+/oasis/scratch/comet/erachtma/temp_project/dros_runtime/split/dros_30G_merged_p.al.fastq 16681322 4170331
+/oasis/scratch/comet/erachtma/temp_project/dros_runtime/split/dros_30G_merged_p.ag.fastq 16659082 4164771
+/oasis/scratch/comet/erachtma/temp_project/dros_runtime/split/dros_30G_merged_p.aj.fastq 16669508 4167377
+/oasis/scratch/comet/erachtma/temp_project/dros_runtime/split/dros_30G_merged_p.bv.fastq 16656038 4164010
+/oasis/scratch/comet/erachtma/temp_project/dros_runtime/split/dros_30G_merged_p.ax.fastq 16656986 4164247
+/oasis/scratch/comet/erachtma/temp_project/dros_runtime/split/dros_30G_merged_p.bg.fastq 16663666 4165917
+/oasis/scratch/comet/erachtma/temp_project/dros_runtime/split/dros_30G_merged_p.at.fastq 16659494 4164874
+/oasis/scratch/comet/erachtma/temp_project/dros_runtime/split/dros_30G_merged_p.br.fastq 16662642 4165661
+/oasis/scratch/comet/erachtma/temp_project/dros_runtime/split/dros_30G_merged_p.be.fastq 16670410 4167603
+/oasis/scratch/comet/erachtma/temp_project/dros_runtime/split/dros_30G_merged_p.bi.fastq 16659330 4164833
+/oasis/scratch/comet/erachtma/temp_project/dros_runtime/split/dros_30G_merged_p.av.fastq 16653752 4163438
+/oasis/scratch/comet/erachtma/temp_project/dros_runtime/split/dros_30G_merged_p.ao.fastq 16658440 4164610
+/oasis/scratch/comet/erachtma/temp_project/dros_runtime/split/dros_30G_merged_p.an.fastq 16655017 0
+/oasis/scratch/comet/erachtma/temp_project/dros_runtime/split/dros_30G_merged_p.az.fastq 16659888 0
+/oasis/scratch/comet/erachtma/temp_project/dros_runtime/split/dros_30G_merged_p.aw.fastq 16659496 4164874
+/oasis/scratch/comet/erachtma/temp_project/dros_runtime/split/dros_30G_merged_p.bp.fastq 16659772 0
+/oasis/scratch/comet/erachtma/temp_project/dros_runtime/split/dros_30G_merged_p.bh.fastq 16663960 1307455
+/oasis/scratch/comet/erachtma/temp_project/dros_runtime/split/dros_30G_merged_p.bo.fastq 16656865 759253
+/oasis/scratch/comet/erachtma/temp_project/dros_runtime/split/dros_30G_merged_p.bj.fastq 16661624 983880
+/oasis/scratch/comet/erachtma/temp_project/dros_runtime/split/dros_30G_merged_p.bk.fastq 16660636 907669
+/oasis/scratch/comet/erachtma/temp_project/dros_runtime/split/dros_30G_merged_p.bn.fastq 16653560 732702
+/oasis/scratch/comet/erachtma/temp_project/dros_runtime/split/dros_30G_merged_p.am.fastq 16673389 934175
+/oasis/scratch/comet/erachtma/temp_project/dros_runtime/split/dros_30G_merged_p.au.fastq 16656552 928499
+/oasis/scratch/comet/erachtma/temp_project/dros_runtime/split/dros_30G_merged_p.af.fastq 16657944 824307
+/oasis/scratch/comet/erachtma/temp_project/dros_runtime/split/dros_30G_merged_p.bq.fastq 16658216 840718
+/oasis/scratch/comet/erachtma/temp_project/dros_runtime/split/dros_30G_merged_p.ar.fastq 16672964 808880
+/oasis/scratch/comet/erachtma/temp_project/dros_runtime/split/dros_30G_merged_p.bs.fastq 16661252 852164
+/oasis/scratch/comet/erachtma/temp_project/dros_runtime/split/dros_30G_merged_p.ay.fastq 16660457 964338
+/oasis/scratch/comet/erachtma/temp_project/dros_runtime/split/dros_30G_merged_p.bb.fastq 16658992 853391
+/oasis/scratch/comet/erachtma/temp_project/dros_runtime/split/dros_30G_merged_p.bc.fastq 16662032 836981
+/oasis/scratch/comet/erachtma/temp_project/dros_runtime/split/dros_30G_merged_p.ba.fastq 16655108 831945
+/oasis/scratch/comet/erachtma/temp_project/dros_runtime/split/dros_30G_merged_p.bf.fastq 16665088 784316
+/oasis/scratch/comet/erachtma/temp_project/dros_runtime/split/dros_30G_merged_p.ah.fastq 16654420 779765
+/oasis/scratch/comet/erachtma/temp_project/dros_runtime/split/dros_30G_merged_p.bt.fastq 16656612 772215
+/oasis/scratch/comet/erachtma/temp_project/dros_runtime/split/dros_30G_merged_p.bd.fastq 16665508 754455
+/oasis/scratch/comet/erachtma/temp_project/dros_runtime/split/dros_30G_merged_p.ab.fastq 16743228 271273
+/oasis/scratch/comet/erachtma/temp_project/dros_runtime/split/dros_30G_merged_p.aa.fastq 16743228 270402
+/oasis/scratch/comet/erachtma/temp_project/dros_runtime/split/dros_30G_merged_p.ac.fastq 16733944 270723
+/oasis/scratch/comet/erachtma/temp_project/dros_runtime/split/dros_30G_merged_p.bl.fastq 16657500 926080
+-- Done matching for all. Time so far: 5361 seconds
+
+real	89m21.758s
+user	1500m5.092s
+sys	124m10.631s

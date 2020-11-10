@@ -1,0 +1,14 @@
+CLARK version 1.2.6.1 (UCR CS&E. Copyright 2013-2019 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading databases of spaced k-mers... 
+Loading done (299177 MB read, with sampling factor 1, 72978556972 spaced k-mers stored)
+Mode: Full,	Processing file: dros_30G_merged.fastq,	 using 24 CPU.
+/oasis/scratch/comet/erachtma/temp_project/soft/clark/CLARKSCV1.2.6.1/classify_metagenome.sh: line 177: 191352 Segmentation fault      (core dumped) $LDIR/exe/CLARK-S $PARAMS
+
+real	309m40.686s
+user	4861m51.150s
+sys	251m18.329s
+
+real	309m40.687s
+user	4861m51.150s
+sys	251m18.329s
+slurmstepd: Exceeded step memory limit at some point.
