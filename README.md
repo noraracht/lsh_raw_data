@@ -6,8 +6,8 @@ This repository contains raw data and output reports we used for the study.
     - [tool_comparison](https://github.com/noraracht/lsh_raw_data/tree/main/tool_comparison)
 
 
-* Runtime analysis log outputs:
-    - [runtime_analysis](https://github.com/noraracht/lsh_raw_data/tree/main/runtime)-->
+* Runtime comparison for different tools:
+    - [runtime_analysis](https://github.com/noraracht/lsh_raw_data/tree/main/runtime)
 
 
 <!--* Genome skims used for simulation experiment with non overlapping contaminants:
