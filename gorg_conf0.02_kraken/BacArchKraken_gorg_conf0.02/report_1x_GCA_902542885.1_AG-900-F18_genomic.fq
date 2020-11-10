@@ -1,0 +1,82 @@
+  5.32	213	213	U	0	unclassified
+ 94.68	3788	0	R	1	root
+ 94.68	3788	0	R1	131567	  cellular organisms
+ 94.65	3787	1	D	2	    Bacteria
+ 94.33	3774	0	D1	1783272	      Terrabacteria group
+ 94.28	3772	0	D2	1798711	        Cyanobacteria/Melainabacteria group
+ 94.28	3772	1	P	1117	          Cyanobacteria
+ 94.20	3769	0	O	1890424	            Synechococcales
+ 94.20	3769	0	F	1213	              Prochloraceae
+ 94.20	3769	3028	G	1218	                Prochlorococcus
+ 15.67	627	145	S	1219	                  Prochlorococcus marinus
+  3.82	153	153	S1	146891	                    Prochlorococcus marinus str. AS9601
+  3.45	138	138	S1	167546	                    Prochlorococcus marinus str. MIT 9301
+  2.72	109	109	S1	93060	                    Prochlorococcus marinus str. MIT 9215
+  1.55	62	62	S1	74546	                    Prochlorococcus marinus str. MIT 9312
+  0.32	13	0	S1	142479	                    Prochlorococcus marinus subsp. pastoris
+  0.32	13	13	S2	59919	                      Prochlorococcus marinus subsp. pastoris str. CCMP1986
+  0.17	7	7	S1	167542	                    Prochlorococcus marinus str. MIT 9515
+  2.85	114	114	S	1501268	                  Prochlorococcus sp. MIT 0604
+  0.02	1	0	O	1161	            Nostocales
+  0.02	1	0	F	1185	              Rivulariaceae
+  0.02	1	0	G	373984	                Rivularia
+  0.02	1	1	S	373994	                  Rivularia sp. PCC 7116
+  0.02	1	0	P1	1301283	            Oscillatoriophycideae
+  0.02	1	0	O	1118	              Chroococcales
+  0.02	1	0	F	1890450	                Aphanothecaceae
+  0.02	1	0	F1	92682	                  Halothece cluster
+  0.02	1	0	G	76023	                    Halothece
+  0.02	1	1	S	65093	                      Halothece sp. PCC 7418
+  0.05	2	0	P	1239	        Firmicutes
+  0.05	2	0	C	91061	          Bacilli
+  0.05	2	0	O	186826	            Lactobacillales
+  0.02	1	0	F	1300	              Streptococcaceae
+  0.02	1	0	G	1301	                Streptococcus
+  0.02	1	1	S	1314	                  Streptococcus pyogenes
+  0.02	1	0	F	33958	              Lactobacillaceae
+  0.02	1	0	G	1578	                Lactobacillus
+  0.02	1	1	S	1580	                  Lactobacillus brevis
+  0.17	7	1	P	1224	      Proteobacteria
+  0.12	5	0	C	1236	        Gammaproteobacteria
+  0.07	3	0	O	91347	          Enterobacterales
+  0.07	3	0	F	1903409	            Erwiniaceae
+  0.07	3	0	G	51228	              Wigglesworthia
+  0.07	3	0	S	51229	                Wigglesworthia glossinidia
+  0.07	3	0	S1	36868	                  Wigglesworthia glossinidia endosymbiont of Glossina morsitans
+  0.07	3	3	S2	1142511	                    Wigglesworthia glossinidia endosymbiont of Glossina morsitans morsitans (Yale colony)
+  0.02	1	0	O	72274	          Pseudomonadales
+  0.02	1	0	F	468	            Moraxellaceae
+  0.02	1	0	G	469	              Acinetobacter
+  0.02	1	0	G1	909768	                Acinetobacter calcoaceticus/baumannii complex
+  0.02	1	1	S	471	                  Acinetobacter calcoaceticus
+  0.02	1	0	O	118969	          Legionellales
+  0.02	1	0	F	444	            Legionellaceae
+  0.02	1	0	G	445	              Legionella
+  0.02	1	1	S	1867846	                Legionella clemsonensis
+  0.02	1	0	P1	68525	        delta/epsilon subdivisions
+  0.02	1	0	C	29547	          Epsilonproteobacteria
+  0.02	1	0	O	213849	            Campylobacterales
+  0.02	1	0	F	72294	              Campylobacteraceae
+  0.02	1	0	G	194	                Campylobacter
+  0.02	1	0	S	374106	                  Campylobacter cuniculorum
+  0.02	1	1	S1	1121267	                    Campylobacter cuniculorum DSM 23162 = LMG 24588
+  0.12	5	0	D1	1783270	      FCB group
+  0.12	5	0	D2	68336	        Bacteroidetes/Chlorobi group
+  0.12	5	0	P	976	          Bacteroidetes
+  0.10	4	0	C	117743	            Flavobacteriia
+  0.10	4	0	O	200644	              Flavobacteriales
+  0.10	4	0	F	49546	                Flavobacteriaceae
+  0.10	4	0	G	237	                  Flavobacterium
+  0.10	4	4	S	1355330	                    Flavobacterium faecale
+  0.02	1	0	C	117747	            Sphingobacteriia
+  0.02	1	0	O	200666	              Sphingobacteriales
+  0.02	1	1	F	84566	                Sphingobacteriaceae
+  0.02	1	0	D	2157	    Archaea
+  0.02	1	0	D1	1783275	      TACK group
+  0.02	1	0	P	28889	        Crenarchaeota
+  0.02	1	0	C	183924	          Thermoprotei
+  0.02	1	0	O	2281	            Sulfolobales
+  0.02	1	0	F	118883	              Sulfolobaceae
+  0.02	1	0	G	12914	                Acidianus
+  0.02	1	0	S	312539	                  Acidianus sulfidivorans
+  0.02	1	1	S1	619593	                    Acidianus sulfidivorans JP7

@@ -1,0 +1,90 @@
+ 95.27	1914	1914	U	0	unclassified
+  4.73	95	0	R	1	root
+  4.73	95	0	R1	131567	  cellular organisms
+  4.73	95	33	D	2	    Bacteria
+  2.49	50	16	P	1224	      Proteobacteria
+  1.54	31	14	C	1236	        Gammaproteobacteria
+  0.30	6	0	O	135619	          Oceanospirillales
+  0.20	4	0	F	1920240	            Kangiellaceae
+  0.20	4	0	G	261963	              Kangiella
+  0.10	2	2	S	914150	                Kangiella geojedonensis
+  0.10	2	2	S	1561924	                Kangiella profundi
+  0.10	2	0	F	28256	            Halomonadaceae
+  0.10	2	0	F1	114403	              Zymobacter group
+  0.10	2	0	G	33073	                Zymobacter
+  0.10	2	2	S	33074	                  Zymobacter palmae
+  0.20	4	1	O	91347	          Enterobacterales
+  0.10	2	1	F	543	            Enterobacteriaceae
+  0.05	1	0	F1	191675	              unclassified Enterobacteriaceae
+  0.05	1	0	F2	84563	                ant, tsetse, mealybug, aphid, etc. endosymbionts
+  0.05	1	0	G	1682492	                  Candidatus Tachikawaea
+  0.05	1	1	S	1410383	                    Candidatus Tachikawaea gelatinosa
+  0.05	1	0	F	1903414	            Morganellaceae
+  0.05	1	0	G	586	              Providencia
+  0.05	1	1	S	2027290	                Providencia sp. WCHPr000369
+  0.10	2	0	O	72274	          Pseudomonadales
+  0.10	2	0	F	468	            Moraxellaceae
+  0.10	2	0	G	469	              Acinetobacter
+  0.10	2	2	S	40215	                Acinetobacter junii
+  0.10	2	0	O	1240482	          Orbales
+  0.10	2	0	F	1240483	            Orbaceae
+  0.10	2	0	G	1335631	              Frischella
+  0.10	2	2	S	1267021	                Frischella perrara
+  0.05	1	0	O	135622	          Alteromonadales
+  0.05	1	0	F	267889	            Colwelliaceae
+  0.05	1	0	G	28228	              Colwellia
+  0.05	1	1	S	1816218	                Colwellia sp. PAMC 20917
+  0.05	1	0	O	72273	          Thiotrichales
+  0.05	1	0	F	34064	            Francisellaceae
+  0.05	1	0	G	262	              Francisella
+  0.05	1	1	S	573569	                Francisella sp. TX077308
+  0.05	1	0	C1	118884	          unclassified Gammaproteobacteria
+  0.05	1	0	C2	32036	            sulfur-oxidizing symbionts
+  0.05	1	0	S	113267	              Bathymodiolus septemdierum thioautotrophic gill symbiont
+  0.05	1	1	S1	1303921	                endosymbiont of Bathymodiolus septemdierum str. Myojin knoll
+  0.10	2	0	C	28211	        Alphaproteobacteria
+  0.05	1	0	O	54526	          Pelagibacterales
+  0.05	1	0	G	2045213	            Candidatus Fonsibacter
+  0.05	1	1	S	1925548	              Candidatus Fonsibacter ubiquis
+  0.05	1	0	O	1921002	          Holosporales
+  0.05	1	0	F	2100208	            Caedimonadaceae
+  0.05	1	0	G	1509243	              Candidatus Nucleicultrix
+  0.05	1	0	S	1509244	                Candidatus Nucleicultrix amoebiphila
+  0.05	1	1	S1	1414854	                  Candidatus Nucleicultrix amoebiphila FS5
+  0.05	1	0	P1	68525	        delta/epsilon subdivisions
+  0.05	1	0	C	29547	          Epsilonproteobacteria
+  0.05	1	0	O	213849	            Campylobacterales
+  0.05	1	0	F	72294	              Campylobacteraceae
+  0.05	1	0	F1	2321108	                Arcobacter group
+  0.05	1	0	G	28196	                  Arcobacter
+  0.05	1	1	S	913109	                    Arcobacter ellisii
+  0.35	7	1	D1	1783272	      Terrabacteria group
+  0.30	6	0	P	1239	        Firmicutes
+  0.20	4	0	C	91061	          Bacilli
+  0.10	2	0	O	1385	            Bacillales
+  0.10	2	0	F	90964	              Staphylococcaceae
+  0.10	2	0	G	1279	                Staphylococcus
+  0.05	1	1	S	29382	                  Staphylococcus cohnii
+  0.05	1	1	S	643214	                  Staphylococcus stepanovicii
+  0.10	2	1	O	186826	            Lactobacillales
+  0.05	1	0	F	81852	              Enterococcaceae
+  0.05	1	0	G	1350	                Enterococcus
+  0.05	1	1	S	417368	                  Enterococcus thailandicus
+  0.10	2	0	C	186801	          Clostridia
+  0.10	2	0	O	186802	            Clostridiales
+  0.10	2	0	F	216572	              Oscillospiraceae
+  0.10	2	0	G	459786	                Oscillibacter
+  0.10	2	0	S	351091	                  Oscillibacter valericigenes
+  0.10	2	2	S1	693746	                    Oscillibacter valericigenes Sjm18-20
+  0.15	3	0	D1	1783270	      FCB group
+  0.15	3	1	D2	68336	        Bacteroidetes/Chlorobi group
+  0.10	2	0	P	976	          Bacteroidetes
+  0.10	2	0	C	117743	            Flavobacteriia
+  0.10	2	2	O	200644	              Flavobacteriales
+  0.10	2	0	P	200940	      Thermodesulfobacteria
+  0.10	2	0	C	67799	        Thermodesulfobacteria
+  0.10	2	0	O	188710	          Thermodesulfobacteriales
+  0.10	2	0	F	188711	            Thermodesulfobacteriaceae
+  0.10	2	0	G	1740	              Thermodesulfobacterium
+  0.10	2	0	S	1295609	                Thermodesulfobacterium geofontis
+  0.10	2	2	S1	795359	                  Thermodesulfobacterium geofontis OPF15

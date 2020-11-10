@@ -1,0 +1,85 @@
+ 35.29	768	768	U	0	unclassified
+ 64.71	1408	0	R	1	root
+ 64.71	1408	1	R1	131567	  cellular organisms
+ 64.61	1406	0	D	2	    Bacteria
+ 64.25	1398	1	D1	1783272	      Terrabacteria group
+ 63.97	1392	0	D2	1798711	        Cyanobacteria/Melainabacteria group
+ 63.97	1392	0	P	1117	          Cyanobacteria
+ 63.97	1392	0	O	1890424	            Synechococcales
+ 63.97	1392	0	F	1213	              Prochloraceae
+ 63.97	1392	42	G	1218	                Prochlorococcus
+ 57.40	1249	249	S	1219	                  Prochlorococcus marinus
+ 24.17	526	526	S1	167555	                    Prochlorococcus marinus str. NATL1A
+ 21.65	471	471	S1	59920	                    Prochlorococcus marinus str. NATL2A
+  0.05	1	1	S1	93059	                    Prochlorococcus marinus str. MIT 9211
+  0.05	1	0	S1	142479	                    Prochlorococcus marinus subsp. pastoris
+  0.05	1	1	S2	59919	                      Prochlorococcus marinus subsp. pastoris str. CCMP1986
+  0.05	1	0	S1	142554	                    Prochlorococcus marinus subsp. marinus
+  0.05	1	1	S2	167539	                      Prochlorococcus marinus subsp. marinus str. CCMP1375
+  4.64	101	101	S	1501269	                  Prochlorococcus sp. MIT 0801
+  0.23	5	0	P	1239	        Firmicutes
+  0.09	2	0	C	186801	          Clostridia
+  0.09	2	0	O	186802	            Clostridiales
+  0.09	2	0	F	31979	              Clostridiaceae
+  0.09	2	0	G	1485	                Clostridium
+  0.09	2	2	S	332101	                  Clostridium drakei
+  0.09	2	0	C	909932	          Negativicutes
+  0.09	2	0	O	1843489	            Veillonellales
+  0.09	2	0	F	31977	              Veillonellaceae
+  0.09	2	0	G	906	                Megasphaera
+  0.09	2	2	S	1675036	                  Megasphaera hexanoica
+  0.05	1	0	C	91061	          Bacilli
+  0.05	1	0	O	1385	            Bacillales
+  0.05	1	0	O1	539002	              Bacillales incertae sedis
+  0.05	1	0	O2	539738	                Bacillales Family XI. Incertae Sedis
+  0.05	1	0	G	1378	                  Gemella
+  0.05	1	1	S	1379	                    Gemella haemolysans
+  0.14	3	0	D1	1783270	      FCB group
+  0.14	3	0	D2	68336	        Bacteroidetes/Chlorobi group
+  0.14	3	0	P	976	          Bacteroidetes
+  0.14	3	0	C	117743	            Flavobacteriia
+  0.14	3	0	O	200644	              Flavobacteriales
+  0.14	3	0	F	49546	                Flavobacteriaceae
+  0.14	3	0	G	237	                  Flavobacterium
+  0.09	2	0	S	312277	                    Flavobacterium indicum
+  0.09	2	2	S1	1094466	                      Flavobacterium indicum GPTSA100-9 = DSM 17447
+  0.05	1	0	S	986	                    Flavobacterium johnsoniae
+  0.05	1	1	S1	376686	                      Flavobacterium johnsoniae UW101
+  0.14	3	0	P	1224	      Proteobacteria
+  0.09	2	0	P1	68525	        delta/epsilon subdivisions
+  0.09	2	0	C	29547	          Epsilonproteobacteria
+  0.09	2	0	O	213849	            Campylobacterales
+  0.09	2	0	F	72294	              Campylobacteraceae
+  0.05	1	0	G	194	                Campylobacter
+  0.05	1	0	S	76517	                  Campylobacter hominis
+  0.05	1	1	S1	360107	                    Campylobacter hominis ATCC BAA-381
+  0.05	1	0	F1	2321108	                Arcobacter group
+  0.05	1	1	F2	2321207	                  unclassified Arcobacter group
+  0.05	1	0	C	28211	        Alphaproteobacteria
+  0.05	1	0	O	766	          Rickettsiales
+  0.05	1	0	F	775	            Rickettsiaceae
+  0.05	1	0	F1	33988	              Rickettsieae
+  0.05	1	0	G	780	                Rickettsia
+  0.05	1	0	G1	114277	                  spotted fever group
+  0.05	1	0	S	47589	                    Rickettsia peacockii
+  0.05	1	1	S1	562019	                      Rickettsia peacockii str. Rustic
+  0.05	1	0	P	200918	      Thermotogae
+  0.05	1	0	C	188708	        Thermotogae
+  0.05	1	0	O	2419	          Thermotogales
+  0.05	1	0	F	1643950	            Fervidobacteriaceae
+  0.05	1	0	G	2420	              Thermosipho
+  0.05	1	0	S	2421	                Thermosipho africanus
+  0.05	1	1	S1	484019	                  Thermosipho africanus TCF52B
+  0.05	1	0	P	200940	      Thermodesulfobacteria
+  0.05	1	0	C	67799	        Thermodesulfobacteria
+  0.05	1	0	O	188710	          Thermodesulfobacteriales
+  0.05	1	0	F	188711	            Thermodesulfobacteriaceae
+  0.05	1	0	G	241192	              Thermodesulfatator
+  0.05	1	0	S	171695	                Thermodesulfatator indicus
+  0.05	1	1	S1	667014	                  Thermodesulfatator indicus DSM 15286
+  0.05	1	0	D	2157	    Archaea
+  0.05	1	0	D1	1783275	      TACK group
+  0.05	1	0	P	651137	        Thaumarchaeota
+  0.05	1	0	P1	651142	          unclassified Thaumarchaeota
+  0.05	1	0	G	1825023	            Candidatus Nitrosotenuis
+  0.05	1	1	S	1846278	              Candidatus Nitrosotenuis aquarius

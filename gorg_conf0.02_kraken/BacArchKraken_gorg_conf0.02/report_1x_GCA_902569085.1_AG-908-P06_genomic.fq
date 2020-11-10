@@ -1,0 +1,92 @@
+  7.26	287	287	U	0	unclassified
+ 92.74	3664	0	R	1	root
+ 92.74	3664	1	R1	131567	  cellular organisms
+ 92.71	3663	9	D	2	    Bacteria
+ 92.15	3641	0	D1	1783272	      Terrabacteria group
+ 92.05	3637	0	D2	1798711	        Cyanobacteria/Melainabacteria group
+ 92.05	3637	2	P	1117	          Cyanobacteria
+ 91.98	3634	4	O	1890424	            Synechococcales
+ 91.88	3630	0	F	1213	              Prochloraceae
+ 91.88	3630	779	G	1218	                Prochlorococcus
+ 61.96	2448	382	S	1219	                  Prochlorococcus marinus
+ 19.44	768	768	S1	146891	                    Prochlorococcus marinus str. AS9601
+ 16.12	637	637	S1	167546	                    Prochlorococcus marinus str. MIT 9301
+  9.34	369	369	S1	93060	                    Prochlorococcus marinus str. MIT 9215
+  5.42	214	214	S1	74546	                    Prochlorococcus marinus str. MIT 9312
+  1.42	56	0	S1	142479	                    Prochlorococcus marinus subsp. pastoris
+  1.42	56	56	S2	59919	                      Prochlorococcus marinus subsp. pastoris str. CCMP1986
+  0.33	13	13	S1	167542	                    Prochlorococcus marinus str. MIT 9515
+  0.15	6	6	S1	93059	                    Prochlorococcus marinus str. MIT 9211
+  0.08	3	0	S1	142554	                    Prochlorococcus marinus subsp. marinus
+  0.08	3	3	S2	167539	                      Prochlorococcus marinus subsp. marinus str. CCMP1375
+ 10.17	402	402	S	1501268	                  Prochlorococcus sp. MIT 0604
+  0.03	1	1	S	1501269	                  Prochlorococcus sp. MIT 0801
+  0.03	1	1	O	1161	            Nostocales
+  0.10	4	0	P	1239	        Firmicutes
+  0.05	2	0	C	91061	          Bacilli
+  0.03	1	0	O	1385	            Bacillales
+  0.03	1	0	F	186817	              Bacillaceae
+  0.03	1	0	G	1386	                Bacillus
+  0.03	1	1	S	1581038	                  Bacillus sp. FJAT-22090
+  0.03	1	0	O	186826	            Lactobacillales
+  0.03	1	0	F	81852	              Enterococcaceae
+  0.03	1	0	G	1350	                Enterococcus
+  0.03	1	1	S	1351	                  Enterococcus faecalis
+  0.05	2	0	C	909932	          Negativicutes
+  0.05	2	0	O	1843489	            Veillonellales
+  0.05	2	0	F	31977	              Veillonellaceae
+  0.05	2	0	G	29465	                Veillonella
+  0.05	2	0	S	29466	                  Veillonella parvula
+  0.05	2	2	S1	1316254	                    Veillonella parvula HSIVP1
+  0.28	11	0	P	1224	      Proteobacteria
+  0.20	8	0	C	1236	        Gammaproteobacteria
+  0.10	4	0	O	91347	          Enterobacterales
+  0.05	2	0	F	1903409	            Erwiniaceae
+  0.03	1	0	G	32199	              Buchnera
+  0.03	1	0	S	9	                Buchnera aphidicola
+  0.03	1	1	S1	98794	                  Buchnera aphidicola (Schizaphis graminum)
+  0.03	1	0	G	53335	              Pantoea
+  0.03	1	1	S	1076550	                Pantoea rwandensis
+  0.03	1	0	F	543	            Enterobacteriaceae
+  0.03	1	0	F1	191675	              unclassified Enterobacteriaceae
+  0.03	1	0	F2	84563	                ant, tsetse, mealybug, aphid, etc. endosymbionts
+  0.03	1	0	F3	146507	                  aphid secondary symbionts
+  0.03	1	0	G	568987	                    Candidatus Hamiltonella
+  0.03	1	1	S	138072	                      Candidatus Hamiltonella defensa
+  0.03	1	0	F	1903414	            Morganellaceae
+  0.03	1	0	G	29487	              Photorhabdus
+  0.03	1	1	S	230089	                Photorhabdus thracensis
+  0.05	2	0	O	118969	          Legionellales
+  0.05	2	0	F	444	            Legionellaceae
+  0.05	2	0	G	445	              Legionella
+  0.05	2	2	S	2005262	                Legionella endosymbiont of Polyplax serrata
+  0.03	1	0	O	135625	          Pasteurellales
+  0.03	1	0	F	712	            Pasteurellaceae
+  0.03	1	1	G	745	              Pasteurella
+  0.03	1	0	O	72273	          Thiotrichales
+  0.03	1	0	F	34064	            Francisellaceae
+  0.03	1	0	G	262	              Francisella
+  0.03	1	0	S	954	                Francisella persica
+  0.03	1	1	S1	1086726	                  Francisella persica ATCC VR-331
+  0.05	2	0	P1	68525	        delta/epsilon subdivisions
+  0.05	2	0	C	29547	          Epsilonproteobacteria
+  0.05	2	0	O	213849	            Campylobacterales
+  0.03	1	0	F	72293	              Helicobacteraceae
+  0.03	1	0	G	209	                Helicobacter
+  0.03	1	1	S	210	                  Helicobacter pylori
+  0.03	1	0	F	72294	              Campylobacteraceae
+  0.03	1	0	G	194	                Campylobacter
+  0.03	1	1	S	1813019	                  Campylobacter hepaticus
+  0.03	1	0	C	28211	        Alphaproteobacteria
+  0.03	1	0	O	1921002	          Holosporales
+  0.03	1	0	F	44746	            Holosporaceae
+  0.03	1	0	F1	204454	              unclassified Holosporaceae
+  0.03	1	1	S	86106	                endosymbiont of Acanthamoeba sp. UWC8
+  0.05	2	0	D1	1783270	      FCB group
+  0.05	2	0	D2	68336	        Bacteroidetes/Chlorobi group
+  0.05	2	0	P	976	          Bacteroidetes
+  0.05	2	0	C	117743	            Flavobacteriia
+  0.05	2	0	O	200644	              Flavobacteriales
+  0.05	2	0	F	39782	                Blattabacteriaceae
+  0.05	2	0	G	34098	                  Blattabacterium
+  0.05	2	2	S	298656	                    Blattabacterium sp. (Cryptocercus kyebangensis)

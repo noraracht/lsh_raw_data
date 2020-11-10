@@ -1,0 +1,85 @@
+  6.29	277	277	U	0	unclassified
+ 93.71	4125	0	R	1	root
+ 93.71	4125	0	R1	131567	  cellular organisms
+ 93.71	4125	1	D	2	    Bacteria
+ 93.50	4116	2	D1	1783272	      Terrabacteria group
+ 93.28	4106	0	D2	1798711	        Cyanobacteria/Melainabacteria group
+ 93.28	4106	0	P	1117	          Cyanobacteria
+ 93.28	4106	2	O	1890424	            Synechococcales
+ 93.23	4104	0	F	1213	              Prochloraceae
+ 93.23	4104	864	G	1218	                Prochlorococcus
+ 62.81	2765	492	S	1219	                  Prochlorococcus marinus
+ 17.45	768	768	S1	146891	                    Prochlorococcus marinus str. AS9601
+ 15.58	686	686	S1	167546	                    Prochlorococcus marinus str. MIT 9301
+ 10.54	464	464	S1	93060	                    Prochlorococcus marinus str. MIT 9215
+  6.32	278	278	S1	74546	                    Prochlorococcus marinus str. MIT 9312
+  0.91	40	0	S1	142479	                    Prochlorococcus marinus subsp. pastoris
+  0.91	40	40	S2	59919	                      Prochlorococcus marinus subsp. pastoris str. CCMP1986
+  0.66	29	29	S1	167542	                    Prochlorococcus marinus str. MIT 9515
+  0.11	5	0	S1	142554	                    Prochlorococcus marinus subsp. marinus
+  0.11	5	5	S2	167539	                      Prochlorococcus marinus subsp. marinus str. CCMP1375
+  0.07	3	3	S1	59920	                    Prochlorococcus marinus str. NATL2A
+ 10.72	472	472	S	1501268	                  Prochlorococcus sp. MIT 0604
+  0.07	3	3	S	1501269	                  Prochlorococcus sp. MIT 0801
+  0.18	8	0	P	1239	        Firmicutes
+  0.11	5	0	C	91061	          Bacilli
+  0.09	4	0	O	1385	            Bacillales
+  0.07	3	0	F	186817	              Bacillaceae
+  0.07	3	0	G	1386	                Bacillus
+  0.07	3	0	G1	86661	                  Bacillus cereus group
+  0.07	3	3	S	1428	                    Bacillus thuringiensis
+  0.02	1	0	F	186820	              Listeriaceae
+  0.02	1	0	G	1637	                Listeria
+  0.02	1	1	S	1639	                  Listeria monocytogenes
+  0.02	1	0	O	186826	            Lactobacillales
+  0.02	1	0	F	33958	              Lactobacillaceae
+  0.02	1	0	G	1253	                Pediococcus
+  0.02	1	1	S	51663	                  Pediococcus damnosus
+  0.07	3	0	C	186801	          Clostridia
+  0.07	3	0	O	186802	            Clostridiales
+  0.07	3	0	F	31979	              Clostridiaceae
+  0.07	3	1	G	1485	                Clostridium
+  0.02	1	0	S	1491	                  Clostridium botulinum
+  0.02	1	0	S1	36826	                    Clostridium botulinum A
+  0.02	1	1	S2	498214	                      Clostridium botulinum A3 str. Loch Maree
+  0.02	1	1	S	1502	                  Clostridium perfringens
+  0.09	4	0	P	1224	      Proteobacteria
+  0.07	3	0	C	1236	        Gammaproteobacteria
+  0.02	1	0	O	91347	          Enterobacterales
+  0.02	1	0	F	543	            Enterobacteriaceae
+  0.02	1	0	G	590	              Salmonella
+  0.02	1	1	S	28901	                Salmonella enterica
+  0.02	1	0	O	135625	          Pasteurellales
+  0.02	1	0	F	712	            Pasteurellaceae
+  0.02	1	1	G	724	              Haemophilus
+  0.02	1	0	O	72273	          Thiotrichales
+  0.02	1	0	F	34064	            Francisellaceae
+  0.02	1	0	G	262	              Francisella
+  0.02	1	1	S	1542390	                Francisella sp. CA97-1460
+  0.02	1	0	C	28216	        Betaproteobacteria
+  0.02	1	0	O	80840	          Burkholderiales
+  0.02	1	0	F	80864	            Comamonadaceae
+  0.02	1	0	G	34072	              Variovorax
+  0.02	1	0	S	34073	                Variovorax paradoxus
+  0.02	1	1	S1	543728	                  Variovorax paradoxus S110
+  0.05	2	0	P	40117	      Nitrospirae
+  0.05	2	0	C	203693	        Nitrospira
+  0.05	2	0	O	189778	          Nitrospirales
+  0.05	2	0	F	189779	            Nitrospiraceae
+  0.05	2	0	G	28261	              Thermodesulfovibrio
+  0.05	2	0	S	28262	                Thermodesulfovibrio yellowstonii
+  0.05	2	2	S1	289376	                  Thermodesulfovibrio yellowstonii DSM 11347
+  0.02	1	0	P	32066	      Fusobacteria
+  0.02	1	0	C	203490	        Fusobacteriia
+  0.02	1	0	O	203491	          Fusobacteriales
+  0.02	1	0	F	203492	            Fusobacteriaceae
+  0.02	1	0	G	848	              Fusobacterium
+  0.02	1	1	S	856	                Fusobacterium varium
+  0.02	1	0	D1	1783270	      FCB group
+  0.02	1	0	D2	68336	        Bacteroidetes/Chlorobi group
+  0.02	1	0	P	976	          Bacteroidetes
+  0.02	1	0	C	117743	            Flavobacteriia
+  0.02	1	0	O	200644	              Flavobacteriales
+  0.02	1	0	F	49546	                Flavobacteriaceae
+  0.02	1	0	G	1778601	                  Apibacter
+  0.02	1	1	S	2500547	                    Apibacter sp. HY041
