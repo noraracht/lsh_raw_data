@@ -40,11 +40,11 @@ This repository contains raw data and output reports we used for the study.
     - TOL
     - Bacterial/Archaeal Kraken
     
-* Query sets:
+* Query sets used during testing:
     - TOL
     - GORG
     
-* Extended parameter titration performed with GORG samples queried using GTDB with different settings:
+* Extended parameter titration performed with TOL samples queried using TOL database with different settings:
     - p3, p4, p5, p6 TBD
     - c1, c2, c3, c4 TBD
    
