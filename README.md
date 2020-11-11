@@ -25,8 +25,8 @@ This repository contains raw data and output reports we used for the study.
     - [consult](https://github.com/noraracht/lsh_raw_data/tree/main/gorg_FP_consult)
     
 * Query summary reports and distance matrices for real Drosophila skims analysis:
-    - [kraken]()
-    - [consult]()
+    - [dros_real_skim_filt](https://github.com/noraracht/lsh_raw_data/tree/main/dros_real_skim_filt)
+    
 
 * Genome skims used for real Drosophila data analysis:
     - before clean up
