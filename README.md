@@ -27,8 +27,8 @@ This repository contains raw data and output reports we used for the study.
     - [dros_real_skim_filt](https://github.com/noraracht/lsh_raw_data/tree/main/dros_real_skim_filt)
     
 * Genome skims used for real Drosophila data analysis:
-    - before clean up
-    - after clean up
+    - [before clean up](https://drive.google.com/drive/folders/1NEa_pFyjpKN1gVGMx_sskPgZZWEycZuG?usp=sharing)
+    - after clean up with [consult](https://drive.google.com/file/d/1zZCA3-Kmf0X2iR-zA3uIHKimjRohPwd2/view?usp=sharing) or [kraken](https://drive.google.com/file/d/1wJmA9WzZ9zuHAysZeVQLFIzX2r-V7JPf/view?usp=sharing)
 
 * Custom Kraken libraries constructed using different genomic reference sets:
     - GTDB
