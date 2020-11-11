@@ -21,14 +21,21 @@ This repository contains raw data and output reports we used for the study.
     - [conf = 0.05](https://github.com/noraracht/lsh_raw_data/tree/main/gorg_conf0.05_kraken)
     
 * False positives results evaluated with plant queries searched against TOL, GTDB and Bact/Arch Kraken with different settings:
-    - [kraken]()
+    - [kraken](https://github.com/noraracht/lsh_raw_data/tree/main/gorg_FP_kraken)
     - [consult](https://github.com/noraracht/lsh_raw_data/tree/main/gorg_FP_consult)
     
+* Query summary reports and distance matrices for real Drosophila skims analysis:
+    - [kraken]()
+    - [consult]()
+
+* Genome skims used for real Drosophila data analysis:
+    - before clean up
+    - after clean up
+
+
 * Extended parameter titration performed with GORG samples queried using GTDB with different settings:
     - p3, p4, p5, p6 TBD
     - c1, c2, c3, c4 TBD
-    
-* Filtering of real Drosophila genome skims: TBD
    
     
    
