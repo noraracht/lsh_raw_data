@@ -24,11 +24,12 @@ This repository contains raw data and output reports we used for the study.
     - [kraken](https://github.com/noraracht/lsh_raw_data/tree/main/gorg_FP_kraken)
     - [consult](https://github.com/noraracht/lsh_raw_data/tree/main/gorg_FP_consult)
     
+* Filtering of real Drosophila genome skims: TBD
+
+
 * Extended parameter titration performed with GORG samples queried using GTDB with different settings:
     - p3, p4, p5, p6 TBD
     - c1, c2, c3, c4 TBD
-    
-* Filtering of real Drosophila genome skims: TBD
    
     
    
