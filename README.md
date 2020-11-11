@@ -21,7 +21,7 @@ This repository contains raw data and output reports we used for the study.
     - [conf = 0.05](https://github.com/noraracht/lsh_raw_data/tree/main/gorg_conf0.05_kraken)
     
 * False positives results evaluated with plant queries searched against TOL, GTDB and Bact/Arch Kraken with different settings:
-    - [kraken](https://github.com/noraracht/lsh_raw_data/tree/main/gorg_FP_kraken)
+    - [kraken with conf "element of" {0.00, 0.02, 0.05}](https://github.com/noraracht/lsh_raw_data/tree/main/gorg_FP_kraken)
     - [consult](https://github.com/noraracht/lsh_raw_data/tree/main/gorg_FP_consult)
     
 * Query summary reports and distance matrices for real Drosophila skims analysis:
