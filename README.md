@@ -45,8 +45,8 @@ This repository contains raw data and output reports we used for the study.
     - GORG
     
 * Extended parameter titration performed with GORG samples queried using GTDB database with different settings(upload in progress)::
-    - p3, p4, p5, p6 TBD
-    - c1, c2, c3, c4 TBD
+    - p3, p4, p5, p6
+    - c1, c2, c3, c4
    
     
    
