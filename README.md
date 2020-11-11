@@ -33,7 +33,7 @@ This repository contains raw data and output reports we used for the study.
 * Custom Kraken libraries constructed using different genomic reference sets (upload in progress):
     - GTDB
     - TOL
-    - Bacterial/Archaeal Kraken
+    - [Bacterial/Archaeal Kraken](https://drive.google.com/file/d/1TEadVT1KPle_ljNKvd9nV7IY6VNfjOyT/view?usp=sharing)
 
 * Custom CONSULT libraries constructed using different genomic reference sets (upload in progress)::
     - GTDB
