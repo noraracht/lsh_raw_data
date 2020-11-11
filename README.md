@@ -30,21 +30,21 @@ This repository contains raw data and output reports we used for the study.
     - before clean up [deduplicated](https://drive.google.com/file/d/1m6-OCLy3_tML2LsnCG50MtOZI2cfOc4-/view?usp=sharing) and [with removed human reads](https://drive.google.com/file/d/1emUYbI2xn8Uxc9SdE_LbJawD7vXUzfxF/view?usp=sharing)
     - after clean up with [consult](https://drive.google.com/file/d/1zZCA3-Kmf0X2iR-zA3uIHKimjRohPwd2/view?usp=sharing) or [kraken](https://drive.google.com/file/d/1wJmA9WzZ9zuHAysZeVQLFIzX2r-V7JPf/view?usp=sharing)
 
-* Custom Kraken libraries constructed using different genomic reference sets:
+* Custom Kraken libraries constructed using different genomic reference sets (upload in progress):
     - GTDB
     - TOL
     - Bacterial/Archaeal Kraken
 
-* Custom CONSULT libraries constructed using different genomic reference sets:
+* Custom CONSULT libraries constructed using different genomic reference sets (upload in progress)::
     - GTDB
     - TOL
     - Bacterial/Archaeal Kraken
     
-* Query sets used during testing:
+* Query sets used during testing (upload in progress)::
     - TOL
     - GORG
     
-* Extended parameter titration performed with TOL samples queried using TOL database with different settings:
+* Extended parameter titration performed with GORG samples queried using GTDB database with different settings(upload in progress)::
     - p3, p4, p5, p6 TBD
     - c1, c2, c3, c4 TBD
    
