@@ -46,7 +46,7 @@ This repository contains raw data and output reports we used for the study.
     
 * Query sets used during testing (upload in progress):
     - [TOL query set](https://drive.google.com/file/d/1bBqU6uL1tNRmecHI052g0q7drrwybONm/view?usp=sharing)
-    - [GORG query set]
+    - [GORG query set](https://drive.google.com/file/d/1-C_ZCl2wbQk-QnGtk2z6yfLErNd_V87L/view?usp=sharing)
     
 
    
