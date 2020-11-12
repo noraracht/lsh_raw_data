@@ -1,0 +1,51 @@
+Option -c has arg: 0
+-- Arguments supplied are 
+Map all_nbrhood_kmers_k32_p3l2clmn7_K15-map2-171_gtdb 
+Query /oasis/scratch/comet/erachtma/temp_project/FP_analysis/plant_querues_forFP
+Threads 24
+cvalue 0
+k-mer count = 7999986111
+kmer count array 0  = 3999986111
+kmer count array 1  = 4000000000
+Sig array size = 15032385536
+Tag array size  = 2147483648
+Enc id array size  = 1879048192
+p = 6
+SL = 32
+L = 2
+alpha = 0.95
+Using K = 15
+Columns = 7
+Partitions = 4
+Sigs row count = 268435456
+Tag size = 2
+Tag mask = 3
+Big sig mask = 268435455
+-- Done sigs allocation 
+-- Done tag allocation 
+-- Done encoding array 0 allocation 
+-- Done encoding array 1 allocation 
+-- Done enc id allocation 
+Sigs read  : 15032385536
+Tags read  : 2147483648
+Encodings 0 read  : 3999986111
+Encodings 1 read  : 4000000000
+Enc id read  : 1879048192
+-- Done reading. Now matching. Time so far: 46 seconds
+/oasis/scratch/comet/erachtma/temp_project/FP_analysis/plant_querues_forFP/. 0 0
+/oasis/scratch/comet/erachtma/temp_project/FP_analysis/plant_querues_forFP/.. 0 0
+/oasis/scratch/comet/erachtma/temp_project/FP_analysis/plant_querues_forFP/15x_Arabidopsis_lyrata.fq 266668 64078
+/oasis/scratch/comet/erachtma/temp_project/FP_analysis/plant_querues_forFP/20x_Arabidopsis_thaliana.fq 266668 64089
+/oasis/scratch/comet/erachtma/temp_project/FP_analysis/plant_querues_forFP/10x_Cca.fq 266668 63490
+/oasis/scratch/comet/erachtma/temp_project/FP_analysis/plant_querues_forFP/10x_Prunus_persica.fq 266668 63845
+/oasis/scratch/comet/erachtma/temp_project/FP_analysis/plant_querues_forFP/5x_Coffee_arabica.fq 266668 63706
+/oasis/scratch/comet/erachtma/temp_project/FP_analysis/plant_querues_forFP/250x_Bathycoccus_prasinos.fq 266668 64148
+/oasis/scratch/comet/erachtma/temp_project/FP_analysis/plant_querues_forFP/10x_Oryza_sativa.fq 266668 63299
+/oasis/scratch/comet/erachtma/temp_project/FP_analysis/plant_querues_forFP/10x_Cil.fq 266668 63632
+/oasis/scratch/comet/erachtma/temp_project/FP_analysis/plant_querues_forFP/2x_Nicotiana_sylvestris.fq 266668 62212
+/oasis/scratch/comet/erachtma/temp_project/FP_analysis/plant_querues_forFP/2x_Zea_mays.fq 266668 63112
+-- Done matching for all. Time so far: 84 seconds
+
+real	1m24.812s
+user	3m12.307s
+sys	4m53.022s
