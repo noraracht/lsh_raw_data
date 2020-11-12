@@ -44,7 +44,7 @@ This repository contains raw data and output reports we used for the study.
     - TOL
     - [Bacterial/Archaeal Kraken](https://drive.google.com/file/d/1jeZB6b6aXl06BpPPsjM8oQA4xingJ1Dq/view?usp=sharing)
     
-* Query sets used during testing (upload in progress):
+* Query sets used during testing:
     - [TOL query set](https://drive.google.com/file/d/1bBqU6uL1tNRmecHI052g0q7drrwybONm/view?usp=sharing)
     - [GORG query set](https://drive.google.com/file/d/1-C_ZCl2wbQk-QnGtk2z6yfLErNd_V87L/view?usp=sharing)
     
