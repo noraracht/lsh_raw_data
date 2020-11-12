@@ -23,9 +23,9 @@ This repository contains raw data and output reports we used for the study.
     - [kraken](https://github.com/noraracht/lsh_raw_data/tree/main/gorg_FP_kraken)
     - [consult](https://github.com/noraracht/lsh_raw_data/tree/main/gorg_FP_consult)
     
-* Extended parameter titration performed with GORG samples queried using GTDB database with different settings:
-    - [recall data](https://github.com/noraracht/lsh_raw_data/tree/main/ext_par_titr_recall)
-    - [false positives data](https://github.com/noraracht/lsh_raw_data/tree/main/ext_par_titr_fp)
+* Extended parameter titration performed with GORG samples queried using GTDB database with variable *m* and *c* combinations:
+    - [recall](https://github.com/noraracht/lsh_raw_data/tree/main/ext_par_titr_recall)
+    - [false positives](https://github.com/noraracht/lsh_raw_data/tree/main/ext_par_titr_fp)
     
 * Query summary reports and distance matrices for real Drosophila skims analysis:
     - [dros_real_skim_filt](https://github.com/noraracht/lsh_raw_data/tree/main/dros_real_skim_filt)
