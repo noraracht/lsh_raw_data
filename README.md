@@ -39,12 +39,12 @@ This repository contains raw data and output reports we used for the study.
     - TOL
     - [Bacterial/Archaeal Kraken](https://drive.google.com/file/d/1TEadVT1KPle_ljNKvd9nV7IY6VNfjOyT/view?usp=sharing)
 
-* Custom CONSULT libraries constructed using different genomic reference sets (upload in progress)::
+* Custom CONSULT libraries constructed using different genomic reference sets (upload in progress):
     - GTDB
     - TOL
     - Bacterial/Archaeal Kraken
     
-* Query sets used during testing (upload in progress)::
+* Query sets used during testing (upload in progress):
     - [TOL query set](https://drive.google.com/file/d/1bBqU6uL1tNRmecHI052g0q7drrwybONm/view?usp=sharing)
     - [GORG query set]
     
