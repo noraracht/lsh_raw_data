@@ -9,7 +9,6 @@ This repository contains raw data and output reports we used for the study.
     - [Drosophila queries](https://github.com/noraracht/lsh_raw_data/tree/main/runtime/dros_queries)
     - [TOL queries](https://github.com/noraracht/lsh_raw_data/tree/main/runtime/tol_queries)
 
-
 * Query summary reports for GORG samples searched against TOL, GTDB and Bact/Arch Kraken using CONSULT:
     - [*m* = 3, *c* = 1](https://github.com/noraracht/lsh_raw_data/tree/main/gorg_p3c1_consult)
     - [*m* = 3, *c* = 2](https://github.com/noraracht/lsh_raw_data/tree/main/gorg_p3c2_consult)
@@ -25,17 +24,29 @@ This repository contains raw data and output reports we used for the study.
     - [consult](https://github.com/noraracht/lsh_raw_data/tree/main/gorg_FP_consult)
     
 * Query summary reports and distance matrices for real Drosophila skims analysis:
-    - [kraken]()
-    - [consult]()
-
+    - [dros_real_skim_filt](https://github.com/noraracht/lsh_raw_data/tree/main/dros_real_skim_filt)
+    
 * Genome skims used for real Drosophila data analysis:
-    - before clean up
-    - after clean up
+    - before clean up [deduplicated](https://drive.google.com/file/d/1m6-OCLy3_tML2LsnCG50MtOZI2cfOc4-/view?usp=sharing) and [with removed human reads](https://drive.google.com/file/d/1emUYbI2xn8Uxc9SdE_LbJawD7vXUzfxF/view?usp=sharing)
+    - after clean up using [consult](https://drive.google.com/file/d/1zZCA3-Kmf0X2iR-zA3uIHKimjRohPwd2/view?usp=sharing) or [kraken](https://drive.google.com/file/d/1wJmA9WzZ9zuHAysZeVQLFIzX2r-V7JPf/view?usp=sharing)
 
+* Custom Kraken libraries constructed using different genomic reference sets (upload in progress):
+    - GTDB
+    - TOL
+    - [Bacterial/Archaeal Kraken](https://drive.google.com/file/d/1TEadVT1KPle_ljNKvd9nV7IY6VNfjOyT/view?usp=sharing)
 
-* Extended parameter titration performed with GORG samples queried using GTDB with different settings:
-    - p3, p4, p5, p6 TBD
-    - c1, c2, c3, c4 TBD
+* Custom CONSULT libraries constructed using different genomic reference sets (upload in progress)::
+    - GTDB
+    - TOL
+    - Bacterial/Archaeal Kraken
+    
+* Query sets used during testing (upload in progress)::
+    - [TOL query set](https://drive.google.com/file/d/1bBqU6uL1tNRmecHI052g0q7drrwybONm/view?usp=sharing)
+    - [GORG query set]
+    
+* Extended parameter titration performed with GORG samples queried using GTDB database with different settings(upload in progress)::
+    - p3, p4, p5, p6
+    - c1, c2, c3, c4
    
     
    
@@ -45,3 +56,6 @@ This repository contains raw data and output reports we used for the study.
 
 <!--* Query summary reports and distance matrices used for simulation experiment with overlapping contaminants:
     - [Dros_contam_overlap_k35_conf0.0.zip](https://github.com/noraracht/kraken_raw_data/blob/master/Dros_contam_overlap_k35_conf0.0.zip)-->
+    
+<!--* archive:   tar -zcvf BacArcKraken_FPplants_kraken_conf0.00.tar.gz BacArcKraken_FPplants_kraken_conf0.00
+      unarchive: tar -xvzf BacArcKraken_FPplants_kraken_conf0.00.tar.gz-->
