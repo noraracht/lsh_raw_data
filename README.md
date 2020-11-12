@@ -38,7 +38,7 @@ This repository contains raw data and output reports we used for the study.
     - GTDB
     - TOL
     - [Bacterial/Archaeal Kraken](https://drive.google.com/file/d/1TEadVT1KPle_ljNKvd9nV7IY6VNfjOyT/view?usp=sharing)
-    - [Human] (https://drive.google.com/file/d/1lnMR2sf82_7Mloj1gKac-Fxt1_0vU9Ne/view?usp=sharing)
+    - [Human](https://drive.google.com/file/d/1lnMR2sf82_7Mloj1gKac-Fxt1_0vU9Ne/view?usp=sharing)
 
 * Custom CONSULT libraries constructed using different genomic reference sets (upload in progress):
     - GTDB
