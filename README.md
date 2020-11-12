@@ -44,9 +44,9 @@ This repository contains raw data and output reports we used for the study.
     - [TOL query set](https://drive.google.com/file/d/1bBqU6uL1tNRmecHI052g0q7drrwybONm/view?usp=sharing)
     - [GORG query set]
     
-* Extended parameter titration performed with GORG samples queried using GTDB database with different settings(upload in progress)::
-    - p3, p4, p5, p6
-    - c1, c2, c3, c4
+* Extended parameter titration performed with GORG samples queried using GTDB database with different settings:
+    - [recall](https://github.com/noraracht/lsh_raw_data/tree/main/ext_par_titr_recall)
+    - [false positives](https://github.com/noraracht/lsh_raw_data/tree/main/ext_par_titr_fp)
    
     
    
