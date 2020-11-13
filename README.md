@@ -42,7 +42,7 @@ This repository contains raw data and output reports we used for the study.
 
 * Custom CONSULT libraries constructed using different genomic reference sets (upload in progress):
     - GTDB
-    - TOL
+    - [TOL](https://drive.google.com/file/d/1sA9HFjWoU2jZ2vjd98pHVDEFRzOKMImk/view?usp=sharing)
     - [Bacterial/Archaeal Kraken](https://drive.google.com/file/d/1jeZB6b6aXl06BpPPsjM8oQA4xingJ1Dq/view?usp=sharing)
     
 * Query sets used during testing:
