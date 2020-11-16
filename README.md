@@ -35,7 +35,7 @@ This repository contains raw data and output reports we used for the study.
     - after clean up using [consult](https://drive.google.com/file/d/1zZCA3-Kmf0X2iR-zA3uIHKimjRohPwd2/view?usp=sharing) or [kraken](https://drive.google.com/file/d/1wJmA9WzZ9zuHAysZeVQLFIzX2r-V7JPf/view?usp=sharing)
 
 * Custom Kraken libraries constructed using different genomic reference sets (upload in progress):
-    - GTDB
+    - [GTDB](https://drive.google.com/file/d/1hX9TykpwDsH26MRct63rzoET5aeHPolh/view?usp=sharing)
     - [TOL](https://drive.google.com/file/d/1jEOSKxjl9phZ85t23XwG57XET_7RmsiX/view?usp=sharing)
     - [Bacterial/Archaeal Kraken](https://drive.google.com/file/d/1TEadVT1KPle_ljNKvd9nV7IY6VNfjOyT/view?usp=sharing)
     - [Human](https://drive.google.com/file/d/1lnMR2sf82_7Mloj1gKac-Fxt1_0vU9Ne/view?usp=sharing)
