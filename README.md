@@ -50,9 +50,12 @@ This repository contains raw data and output reports we used for the study.
     - [GORG query set](https://drive.google.com/file/d/1-C_ZCl2wbQk-QnGtk2z6yfLErNd_V87L/view?usp=sharing)
 
 * Mitochondrial assembly:
-    - [TOL query set](https://drive.google.com/file/d/1bBqU6uL1tNRmecHI052g0q7drrwybONm/view?usp=sharing)
-    - [Annotation report for original group](https://drive.google.com/file/d/1-C_ZCl2wbQk-QnGtk2z6yfLErNd_V87L/view?usp=sharing)
-    * Mitochondrial assembly:
+    * Original sequencing data:
+        - [Filtered sequencing reads](https://drive.google.com/file/d/1bBqU6uL1tNRmecHI052g0q7drrwybONm/view?usp=sharing)
+        - [Unfiltered sequencing reads](https://drive.google.com/file/d/1bBqU6uL1tNRmecHI052g0q7drrwybONm/view?usp=sharing)
+    * Assemblies:
+        - [Annotation report for original group](https://drive.google.com/file/d/1-C_ZCl2wbQk-QnGtk2z6yfLErNd_V87L/view?usp=sharing)
+    * Annotations:
         - [Annotation report for original assmblies](https://drive.google.com/file/d/1-C_ZCl2wbQk-QnGtk2z6yfLErNd_V87L/view?usp=sharing)
         - [Annotation report for filtered assmblies](https://drive.google.com/file/d/1-C_ZCl2wbQk-QnGtk2z6yfLErNd_V87L/view?usp=sharing)
     
