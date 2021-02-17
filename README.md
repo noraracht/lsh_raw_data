@@ -61,9 +61,9 @@ This repository contains raw data and output reports we used for the study.
         - [Annotation report for original group](https://drive.google.com/file/d/1-C_ZCl2wbQk-QnGtk2z6yfLErNd_V87L/view?usp=sharing)
        
     * Annotation reports:
-        - [Original assmblies](https://github.com/noraracht/lsh_raw_data/tree/main/mitos_annot_original)
+        - [Original assemblies](https://github.com/noraracht/lsh_raw_data/tree/main/mitos_annot_original)
         - [Assemblies generated from filtered reads](https://github.com/noraracht/lsh_raw_data/tree/main/mitos_annot_filt)
-        - [Aassemblies generated from unfiltered reads](https://drive.google.com/file/d/1-C_ZCl2wbQk-QnGtk2z6yfLErNd_V87L/view?usp=sharing)
+        - [Aassemblies generated from unfiltered reads](https://github.com/noraracht/lsh_raw_data/tree/main/mitos_annot_unfilt)
     
 
    
