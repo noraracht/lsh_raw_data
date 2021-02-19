@@ -59,7 +59,7 @@ This repository contains raw data and output reports we used for the study.
         
     * Assemblies:
         - [From filtered reads](https://github.com/noraracht/lsh_raw_data/tree/main/filt_stdspades_cseq_n1_scaffolds)
-        - [From unfiltered reads](https://drive.google.com/file/d/1-C_ZCl2wbQk-QnGtk2z6yfLErNd_V87L/view?usp=sharing)
+        - [From unfiltered reads](https://github.com/noraracht/lsh_raw_data/tree/main/notfilt_final_mito_n1_scaffolds)
        
     * Annotation reports:
         - [Original assemblies](https://github.com/noraracht/lsh_raw_data/tree/main/mitos_annot_original)
