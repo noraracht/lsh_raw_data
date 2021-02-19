@@ -55,7 +55,7 @@ This repository contains raw data and output reports we used for the study.
         - [Unfiltered reads](https://drive.google.com/file/d/1oywrGq6pQq9wjP-SFmt8qaOxdQ13eOrH/view?usp=sharing)
 
     * Read filtering:
-        - [Mitochondrila CONSULT databse](https://drive.google.com/file/d/1mFD3dYFrJKqUkWlkRHbrQt-6eG-_K5vI/view?usp=sharing)
+        - [Mitochondrial CONSULT database](https://drive.google.com/file/d/1mFD3dYFrJKqUkWlkRHbrQt-6eG-_K5vI/view?usp=sharing)
         
     * Assemblies:
         - [From filtered reads](https://drive.google.com/file/d/1-C_ZCl2wbQk-QnGtk2z6yfLErNd_V87L/view?usp=sharing)
