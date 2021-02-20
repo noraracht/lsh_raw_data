@@ -66,7 +66,7 @@ This repository contains raw data and output reports we used for the study.
         - [Filtered reads](https://github.com/noraracht/lsh_raw_data/tree/main/mitos_annot_filt)
         - [Unfiltered reads](https://github.com/noraracht/lsh_raw_data/tree/main/mitos_annot_unfilt)
         
-    * Summary table:
+    * Summary tables:
         - [Filtered vs unfiltered](https://github.com/noraracht/lsh_scripts/blob/main/combined_horizontal_mitoS_filt_unfilt_full.csv)
         - [All conditions](https://github.com/noraracht/lsh_scripts/blob/main/combined_mitoS_filt_unfilt_originalDanish_full.csv)
 
