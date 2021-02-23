@@ -1,0 +1,120 @@
+ 75.76	125	125	U	0	unclassified
+ 24.24	40	0	R	1	root
+ 24.24	40	1	R1	131567	  cellular organisms
+ 23.64	39	2	D	2	    Bacteria
+ 12.12	20	1	P	1224	      Proteobacteria
+  9.70	16	0	C	1236	        Gammaproteobacteria
+  4.85	8	0	C1	118884	          unclassified Gammaproteobacteria
+  4.24	7	2	C2	33811	            unclassified Gammaproteobacteria (miscellaneous)
+  1.21	2	2	S	1009425	              gamma proteobacterium SCGC AAA168-I18
+  0.61	1	1	S	939696	              gamma proteobacterium SCGC AAA300-D14
+  0.61	1	1	S	1007118	              gamma proteobacterium SCGC AAA076-P09
+  0.61	1	1	S	1007119	              gamma proteobacterium SCGC AAA076-P13
+  0.61	1	0	C2	62672	            SAR86 cluster
+  0.61	1	1	S	1123866	              SAR86 cluster bacterium SAR86A
+  1.82	3	0	O	91347	          Enterobacterales
+  1.82	3	0	F	1903414	            Morganellaceae
+  1.82	3	0	G	626	              Xenorhabdus
+  1.82	3	0	S	40577	                Xenorhabdus poinarii
+  1.82	3	3	S1	1354304	                  Xenorhabdus poinarii G6
+  1.82	3	0	O	118969	          Legionellales
+  1.82	3	0	F	444	            Legionellaceae
+  1.82	3	0	G	445	              Legionella
+  1.82	3	3	S	1034944	                Legionella tunisiensis
+  0.61	1	1	O	135622	          Alteromonadales
+  0.61	1	0	O	135624	          Aeromonadales
+  0.61	1	0	F	84642	            Aeromonadaceae
+  0.61	1	0	G	129577	              Oceanimonas
+  0.61	1	0	S	264574	                Oceanimonas smirnovii
+  0.61	1	1	S1	1279015	                  Oceanimonas smirnovii ATCC BAA-899
+  1.21	2	0	C	28211	        Alphaproteobacteria
+  1.21	2	0	O	204455	          Rhodobacterales
+  1.21	2	0	F	31989	            Rhodobacteraceae
+  1.21	2	0	F1	58840	              unclassified Rhodobacteraceae
+  1.21	2	2	S	1811620	                Rhodobacteraceae bacterium REDSEA-S03_B4
+  0.61	1	0	P1	68525	        delta/epsilon subdivisions
+  0.61	1	0	C	29547	          Epsilonproteobacteria
+  0.61	1	0	O	213849	            Campylobacterales
+  0.61	1	0	F	72294	              Campylobacteraceae
+  0.61	1	0	F1	2321108	                Arcobacter group
+  0.61	1	0	G	28196	                  Arcobacter
+  0.61	1	1	S	1355374	                    Arcobacter lanthieri
+  5.45	9	1	D1	1783272	      Terrabacteria group
+  3.03	5	0	P	1239	        Firmicutes
+  1.82	3	0	C	186801	          Clostridia
+  1.82	3	0	O	186802	            Clostridiales
+  1.21	2	0	F	31979	              Clostridiaceae
+  1.21	2	0	G	1485	                Clostridium
+  0.61	1	1	S	137838	                  Clostridium neonatale
+  0.61	1	0	S	1501	                  Clostridium pasteurianum
+  0.61	1	1	S1	86416	                    Clostridium pasteurianum BC1
+  0.61	1	0	F	186803	              Lachnospiraceae
+  0.61	1	0	G	830	                Butyrivibrio
+  0.61	1	0	S	43305	                  Butyrivibrio proteoclasticus
+  0.61	1	1	S1	1410650	                    Butyrivibrio proteoclasticus P6B7
+  1.21	2	0	C	91061	          Bacilli
+  0.61	1	0	O	1385	            Bacillales
+  0.61	1	0	F	186817	              Bacillaceae
+  0.61	1	0	G	400634	                Lysinibacillus
+  0.61	1	1	S	28031	                  Lysinibacillus fusiformis
+  0.61	1	0	O	186826	            Lactobacillales
+  0.61	1	0	F	33958	              Lactobacillaceae
+  0.61	1	0	G	1578	                Lactobacillus
+  0.61	1	0	S	82688	                  Lactobacillus nagelii
+  0.61	1	1	S1	1122150	                    Lactobacillus nagelii DSM 13675
+  1.21	2	0	D2	1798711	        Cyanobacteria/Melainabacteria group
+  1.21	2	0	P	1117	          Cyanobacteria
+  1.21	2	0	O	1161	            Nostocales
+  1.21	2	0	F	1182	              Scytonemataceae
+  1.21	2	0	G	1203	                Scytonema
+  1.21	2	0	S	34078	                  Scytonema hofmannii
+  1.21	2	2	S1	128403	                    Scytonema hofmannii PCC 7110
+  0.61	1	0	P	200795	        Chloroflexi
+  0.61	1	0	C	292625	          Anaerolineae
+  0.61	1	0	O	292629	            Anaerolineales
+  0.61	1	0	F	292628	              Anaerolineaceae
+  0.61	1	0	G	1769713	                Flexilinea
+  0.61	1	1	S	1678840	                  Flexilinea flocculi
+  3.03	5	0	D1	1783270	      FCB group
+  3.03	5	0	D2	68336	        Bacteroidetes/Chlorobi group
+  3.03	5	0	P	976	          Bacteroidetes
+  1.82	3	0	C	117743	            Flavobacteriia
+  1.82	3	0	O	200644	              Flavobacteriales
+  1.82	3	0	F	49546	                Flavobacteriaceae
+  0.61	1	1	G	52959	                  Polaribacter
+  0.61	1	0	G	59732	                  Chryseobacterium
+  0.61	1	1	S	1324352	                    Chryseobacterium gallinarum
+  0.61	1	0	G	286104	                  Winogradskyella
+  0.61	1	0	S	1344585	                    Winogradskyella psychrotolerans
+  0.61	1	1	S1	641526	                      Winogradskyella psychrotolerans RS-3
+  0.61	1	0	C	200643	            Bacteroidia
+  0.61	1	0	O	171549	              Bacteroidales
+  0.61	1	0	F	171552	                Prevotellaceae
+  0.61	1	0	G	838	                  Prevotella
+  0.61	1	0	G1	84374	                    environmental samples
+  0.61	1	1	S	1262934	                      Prevotella sp. CAG:732
+  0.61	1	0	C	1853228	            Chitinophagia
+  0.61	1	0	O	1853229	              Chitinophagales
+  0.61	1	0	F	563835	                Chitinophagaceae
+  0.61	1	0	G	1648511	                  Cnuella
+  0.61	1	1	S	1302690	                    Cnuella takakiae
+  0.61	1	0	P	32066	      Fusobacteria
+  0.61	1	0	C	203490	        Fusobacteriia
+  0.61	1	0	O	203491	          Fusobacteriales
+  0.61	1	0	F	1129771	            Leptotrichiaceae
+  0.61	1	0	G	34104	              Streptobacillus
+  0.61	1	1	S	1712031	                Streptobacillus notomytis
+  0.61	1	0	D1	1783257	      PVC group
+  0.61	1	0	P	203682	        Planctomycetes
+  0.61	1	0	C	2517206	          Candidatus Brocadiae
+  0.61	1	0	O	1127829	            Candidatus Brocadiales
+  0.61	1	0	F	1127830	              Candidatus Brocadiaceae
+  0.61	1	0	G	236756	                Candidatus Scalindua
+  0.61	1	1	S	1872076	                  Candidatus Scalindua rubra
+  0.61	1	0	P	203691	      Spirochaetes
+  0.61	1	0	C	203692	        Spirochaetia
+  0.61	1	0	O	136	          Spirochaetales
+  0.61	1	0	F	1643685	            Borreliaceae
+  0.61	1	0	G	138	              Borrelia
+  0.61	1	0	S	29520	                Borrelia crocidurae
+  0.61	1	1	S1	1293575	                  Borrelia crocidurae DOU
