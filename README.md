@@ -15,7 +15,7 @@ This repository contains raw data and output reports we used for the study.
     - [*p* = 4, *c* = 2](https://github.com/noraracht/lsh_raw_data/tree/main/gorg_p4c2_consult)
 
 * Query summary reports for GORG samples searched against TOL, GTDB and Bact/Arch Kraken using Kraken:
-    - [conf = 0.00](https://github.com/noraracht/lsh_raw_data/tree/main/gorg_conf0.00_kraken)
+    - [conf = 0.00](https://drive.google.com/file/d/1Qq3QWThO6Vpc2fSUhjZS6-vGzHtNyn2-/view?usp=sharing)
     - [conf = 0.02](https://github.com/noraracht/lsh_raw_data/tree/main/gorg_conf0.02_kraken)
     - [conf = 0.05](https://github.com/noraracht/lsh_raw_data/tree/main/gorg_conf0.05_kraken)
     
