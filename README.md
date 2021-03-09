@@ -32,7 +32,7 @@ This repository contains raw data and output reports we used for the study.
     
 * Genome skims used for real Drosophila data analysis:
     - before clean up [deduplicated](https://drive.google.com/file/d/1m6-OCLy3_tML2LsnCG50MtOZI2cfOc4-/view?usp=sharing) and [with removed human reads](https://drive.google.com/file/d/1emUYbI2xn8Uxc9SdE_LbJawD7vXUzfxF/view?usp=sharing)
-    - after clean up using [consult](https://drive.google.com/file/d/1zZCA3-Kmf0X2iR-zA3uIHKimjRohPwd2/view?usp=sharing) or [kraken](https://drive.google.com/file/d/1wJmA9WzZ9zuHAysZeVQLFIzX2r-V7JPf/view?usp=sharing)
+    - after clean up using [consult](https://drive.google.com/file/d/1OL9b61v8UhF6Lx2ZPAEOuPauMwOfwlHL/view?usp=sharing) or [kraken](https://drive.google.com/file/d/1wJmA9WzZ9zuHAysZeVQLFIzX2r-V7JPf/view?usp=sharing)
 
 * Custom Kraken libraries constructed using different genomic reference sets:
     - [GTDB](https://drive.google.com/file/d/1hX9TykpwDsH26MRct63rzoET5aeHPolh/view?usp=sharing)
