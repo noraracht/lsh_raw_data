@@ -35,11 +35,13 @@ This repository contains raw data and output reports we used for the study.
     - after clean up using [consult](https://drive.google.com/file/d/1OL9b61v8UhF6Lx2ZPAEOuPauMwOfwlHL/view?usp=sharing) or [kraken](https://drive.google.com/file/d/1Q2ZgUM-LCTVlyDC1VyLd_2XxPQ2xonv2/view?usp=sharing)
 
 * Custom Kraken libraries constructed using different genomic reference sets:
-    - [GTDB](https://drive.google.com/file/d/1hX9TykpwDsH26MRct63rzoET5aeHPolh/view?usp=sharing)
-    - [TOL](https://drive.google.com/file/d/1jEOSKxjl9phZ85t23XwG57XET_7RmsiX/view?usp=sharing)
+    - [GTDB]() upload in progress
+    - [TOL]() upload in progress
+    - [GTDB orig taxonomy](https://drive.google.com/file/d/1hX9TykpwDsH26MRct63rzoET5aeHPolh/view?usp=sharing)
+    - [TOL orig taxonomy](https://drive.google.com/file/d/1jEOSKxjl9phZ85t23XwG57XET_7RmsiX/view?usp=sharing)
     - [Bacterial/Archaeal Kraken](https://drive.google.com/file/d/1TEadVT1KPle_ljNKvd9nV7IY6VNfjOyT/view?usp=sharing)
     - [Human](https://drive.google.com/file/d/1lnMR2sf82_7Mloj1gKac-Fxt1_0vU9Ne/view?usp=sharing)
-
+    
 * Custom CONSULT libraries constructed using different genomic reference sets:
     - [GTDB](https://drive.google.com/file/d/1MQJAXmZiTurumlZpvNoMLB0tKWGM_VE4/view?usp=sharing)
     - [TOL](https://drive.google.com/file/d/1sA9HFjWoU2jZ2vjd98pHVDEFRzOKMImk/view?usp=sharing)
