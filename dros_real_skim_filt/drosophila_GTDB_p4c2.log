@@ -1,0 +1,53 @@
+Option -c has arg: 2
+-- Arguments supplied are 
+Map all_nbrhood_kmers_k32_p3l2clmn7_K15-map2-171_gtdb 
+Query /oasis/tscc/scratch/erachtma/14_dros_project_tscc/0.1G_bbmerge/kraken_human/ucseq_kraken_human
+Threads 24
+cvalue 2
+k-mer count = 7999986111
+kmer count array 0  = 3999986111
+kmer count array 1  = 4000000000
+Sig array size = 15032385536
+Tag array size  = 2147483648
+Enc id array size  = 1879048192
+p = 4
+SL = 32
+L = 2
+alpha = 0.95
+Using K = 15
+Columns = 7
+Partitions = 4
+Sigs row count = 268435456
+Tag size = 2
+Tag mask = 3
+Big sig mask = 268435455
+-- Done sigs allocation 
+-- Done tag allocation 
+-- Done encoding array 0 allocation 
+-- Done encoding array 1 allocation 
+-- Done enc id allocation 
+Sigs read  : 15032385536
+Tags read  : 2147483648
+Encodings 0 read  : 3999986111
+Encodings 1 read  : 4000000000
+Enc id read  : 1879048192
+-- Done reading. Now matching. Time so far: 52 seconds
+/oasis/tscc/scratch/erachtma/14_dros_project_tscc/0.1G_bbmerge/kraken_human/ucseq_kraken_human/. 0 0
+/oasis/tscc/scratch/erachtma/14_dros_project_tscc/0.1G_bbmerge/kraken_human/ucseq_kraken_human/library 0 0
+/oasis/tscc/scratch/erachtma/14_dros_project_tscc/0.1G_bbmerge/kraken_human/ucseq_kraken_human/.. 0 0
+/oasis/tscc/scratch/erachtma/14_dros_project_tscc/0.1G_bbmerge/kraken_human/ucseq_kraken_human/ref_dist_mat_skmer_dros_0.1G_aft_human_wKraken.txt 15 4
+/oasis/tscc/scratch/erachtma/14_dros_project_tscc/0.1G_bbmerge/kraken_human/ucseq_kraken_human/ucseq_sub_Drosophila_virilis_2.fq 1259536 21225
+/oasis/tscc/scratch/erachtma/14_dros_project_tscc/0.1G_bbmerge/kraken_human/ucseq_kraken_human/ucseq_sub_Drosophila_willistoni_2.fq 1340248 8321
+/oasis/tscc/scratch/erachtma/14_dros_project_tscc/0.1G_bbmerge/kraken_human/ucseq_kraken_human/ucseq_sub_Drosophila_ananassae_2.fq 1407528 24647
+/oasis/tscc/scratch/erachtma/14_dros_project_tscc/0.1G_bbmerge/kraken_human/ucseq_kraken_human/ucseq_sub_Drosophila_mojavensis_2.fq 1530376 8671
+/oasis/tscc/scratch/erachtma/14_dros_project_tscc/0.1G_bbmerge/kraken_human/ucseq_kraken_human/ucseq_sub_Drosophila_pseudoobscura_2.fq 1553608 8394
+/oasis/tscc/scratch/erachtma/14_dros_project_tscc/0.1G_bbmerge/kraken_human/ucseq_kraken_human/ucseq_sub_Drosophila_persimilis_2.fq 1526760 11912
+/oasis/tscc/scratch/erachtma/14_dros_project_tscc/0.1G_bbmerge/kraken_human/ucseq_kraken_human/ucseq_sub_Drosophila_bipectinata_2.fq 1541096 17912
+/oasis/tscc/scratch/erachtma/14_dros_project_tscc/0.1G_bbmerge/kraken_human/ucseq_kraken_human/ucseq_sub_Drosophila_sechellia_2.fq 1528928 10458
+/oasis/tscc/scratch/erachtma/14_dros_project_tscc/0.1G_bbmerge/kraken_human/ucseq_kraken_human/ucseq_sub_Drosophila_yakuba_2.fq 1596932 6874
+/oasis/tscc/scratch/erachtma/14_dros_project_tscc/0.1G_bbmerge/kraken_human/ucseq_kraken_human/ucseq_sub_Drosophila_eugracilis_2.fq 1606840 14225
+/oasis/tscc/scratch/erachtma/14_dros_project_tscc/0.1G_bbmerge/kraken_human/ucseq_kraken_human/ucseq_sub_Drosophila_mauritiana_2.fq 1630520 10150
+/oasis/tscc/scratch/erachtma/14_dros_project_tscc/0.1G_bbmerge/kraken_human/ucseq_kraken_human/ucseq_sub_Drosophila_simulans_2.fq 1604560 5026
+/oasis/tscc/scratch/erachtma/14_dros_project_tscc/0.1G_bbmerge/kraken_human/ucseq_kraken_human/ucseq_sub_Drosophila_erecta_2.fq 1714164 7252
+/oasis/tscc/scratch/erachtma/14_dros_project_tscc/0.1G_bbmerge/kraken_human/ucseq_kraken_human/ucseq_sub_Drosophila_biarmipes_2.fq 1730572 5584
+-- Done matching for all. Time so far: 286 seconds
