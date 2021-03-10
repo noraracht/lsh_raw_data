@@ -17,7 +17,7 @@ This repository contains raw data and output reports we used for the study.
 * Query summary reports for GORG samples searched against TOL, GTDB and Bact/Arch Kraken using Kraken:
     - [conf = 0.00](https://drive.google.com/file/d/1Qq3QWThO6Vpc2fSUhjZS6-vGzHtNyn2-/view?usp=sharing)
     - [conf = 0.02](https://drive.google.com/file/d/184A5bLZi3lcyxc66j0KWTb4RwY8eWRjt/view?usp=sharing)
-    - [conf = 0.04](https://drive.google.com/file/d/1SkKg9R3qXFjhZp2z0cIcWODWcz3CWT8F/view?usp=sharing)
+    - [conf = 0.04](https://drive.google.com/file/d/1iyxIhcGKaK2-WiGW3ekEWbNvZoKdfsnD/view?usp=sharing)
     - [conf = 0.05](https://drive.google.com/file/d/1ouJCVwg2tokg36irvZn0B-QefHZU7bbO/view?usp=sharing)
    
     
