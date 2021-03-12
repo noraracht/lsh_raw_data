@@ -37,7 +37,7 @@ This repository contains raw data and output reports we used for the study.
     - after clean up using [consult](https://drive.google.com/file/d/1fCwz07JCRFb2fWLJXc1ELMeBHvm118ph/view?usp=sharing) or [kraken](https://drive.google.com/file/d/102oKp3CmutgHxmAWeVZELwgR5wRj-ODV/view?usp=sharing)
 
 * Custom Kraken libraries constructed using different genomic reference sets:
-    - [GTDB]() upload in progress
+    - [GTDB](https://drive.google.com/file/d/1PEIq70XKL8BSVc3WasL1mxCRmnHzUXPP/view?usp=sharing)
     - [TOL](https://drive.google.com/file/d/1kX7uvoK0UaBxx63c4o_biWUTPX-3gRGf/view?usp=sharing)
     - [GTDB orig taxonomy](https://drive.google.com/file/d/1hX9TykpwDsH26MRct63rzoET5aeHPolh/view?usp=sharing)
     - [TOL orig taxonomy](https://drive.google.com/file/d/1jEOSKxjl9phZ85t23XwG57XET_7RmsiX/view?usp=sharing)
