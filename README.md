@@ -76,7 +76,7 @@ This repository contains raw data and output reports we used for the study.
 
 
 
- * CONSULT libraries are also available on goggle drive:
+ * Copy of CONSULT libraries are also available from goggle drive:
     - [GTDB](https://drive.google.com/file/d/1MQJAXmZiTurumlZpvNoMLB0tKWGM_VE4/view?usp=sharing)
     - [TOL](https://drive.google.com/file/d/1sA9HFjWoU2jZ2vjd98pHVDEFRzOKMImk/view?usp=sharing)
     - [Bacterial/Archaeal Kraken](https://drive.google.com/file/d/1jeZB6b6aXl06BpPPsjM8oQA4xingJ1Dq/view?usp=sharing)
