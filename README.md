@@ -48,9 +48,7 @@ This repository contains raw data and output reports we used for the study.
     - [GTDB](https://tera-trees.com/data/consult/v1.0.0/all_nbrhood_kmers_k32_p3l2clmn7_K15-map2-171_gtdb.tar.gz)
     - [TOL](https://tera-trees.com/data/consult/v1.0.0/all_nbrhood_kmers_k32_p3l2clmn7_K15-map2-171_ToL.tar.gz)
     - [Bacterial/Archaeal Kraken](https://tera-trees.com/data/consult/v1.0.0/all_nbrhood_kmers_k32_p3l2clmn7_K15-map2-171_kraken.tar.gz)
-    
-   
-    
+  
 * Query sets used during testing:
     - [TOL query set](https://drive.google.com/file/d/1bBqU6uL1tNRmecHI052g0q7drrwybONm/view?usp=sharing)
     - [GORG query set](https://drive.google.com/file/d/1-C_ZCl2wbQk-QnGtk2z6yfLErNd_V87L/view?usp=sharing)
@@ -75,6 +73,7 @@ This repository contains raw data and output reports we used for the study.
     * Summary tables:
         - [Filtered vs unfiltered](https://github.com/noraracht/lsh_scripts/blob/main/combined_horizontal_mitoS_filt_unfilt_full.csv)
         - [All conditions](https://github.com/noraracht/lsh_scripts/blob/main/combined_mitoS_filt_unfilt_originalDanish_full.csv)
+
 
 
  * CONSULT libraries are also available on goggle drive:
