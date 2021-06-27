@@ -84,7 +84,7 @@ This repository contains raw data and output reports we used for the study.
         - [From unfiltered reads]()
        
     * Annotations:
-        - [Outputs]()
+        - [Outputs](https://drive.google.com/file/d/1gyLmDUmMlMrWpsDvf8VpgUspL3ktA1wc/view?usp=sharing)
         
  * Copy of CONSULT libraries are also available from goggle drive:
     - [GTDB](https://drive.google.com/file/d/1MQJAXmZiTurumlZpvNoMLB0tKWGM_VE4/view?usp=sharing)
