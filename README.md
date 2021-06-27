@@ -74,13 +74,24 @@ This repository contains raw data and output reports we used for the study.
         - [Filtered vs unfiltered](https://github.com/noraracht/lsh_scripts/blob/main/combined_horizontal_mitoS_filt_unfilt_full.csv)
         - [All conditions](https://github.com/noraracht/lsh_scripts/blob/main/combined_mitoS_filt_unfilt_originalDanish_full.csv)
 
-
-
+* Chloroplast assembly (upload in porgress):
+    * Original sequencing data:
+        - [Filtered reads]()
+        - [Unfiltered reads]()
+        
+   * Assemblies output:
+        - [From filtered reads]()
+        - [From unfiltered reads]()
+       
+    * Annotations output:
+        - [Original assemblies]()
+        
  * Copy of CONSULT libraries are also available from goggle drive:
     - [GTDB](https://drive.google.com/file/d/1MQJAXmZiTurumlZpvNoMLB0tKWGM_VE4/view?usp=sharing)
     - [TOL](https://drive.google.com/file/d/1sA9HFjWoU2jZ2vjd98pHVDEFRzOKMImk/view?usp=sharing)
     - [Bacterial/Archaeal Kraken](https://drive.google.com/file/d/1jeZB6b6aXl06BpPPsjM8oQA4xingJ1Dq/view?usp=sharing)
     - [Mitochondrial CONSULT database](https://drive.google.com/file/d/1mFD3dYFrJKqUkWlkRHbrQt-6eG-_K5vI/view?usp=sharing)
+    - [Plastid CONSULT database - in progress]()
    
 <!--* Query summary reports and distance matrices used for simulation experiment with overlapping contaminants:
     - [Dros_contam_overlap_k35_conf0.0.zip](https://github.com/noraracht/kraken_raw_data/blob/master/Dros_contam_overlap_k35_conf0.0.zip)-->
