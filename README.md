@@ -80,7 +80,7 @@ This repository contains raw data and output reports we used for the study.
         - [Unfiltered reads]()
         
    * Assemblies:
-        - [From filtered reads]()
+        - [From filtered reads](https://drive.google.com/file/d/1UcI9xt_sxUjZ-vb0Pp-BdkBDkJBgQxYz/view?usp=sharing)
         - [From unfiltered reads]()
        
     * Annotations:
