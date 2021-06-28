@@ -91,7 +91,7 @@ This repository contains raw data and output reports we used for the study.
     - [TOL](https://drive.google.com/file/d/1sA9HFjWoU2jZ2vjd98pHVDEFRzOKMImk/view?usp=sharing)
     - [Bacterial/Archaeal Kraken](https://drive.google.com/file/d/1jeZB6b6aXl06BpPPsjM8oQA4xingJ1Dq/view?usp=sharing)
     - [Mitochondrial CONSULT database](https://drive.google.com/file/d/1mFD3dYFrJKqUkWlkRHbrQt-6eG-_K5vI/view?usp=sharing)
-    - [Plastid CONSULT database - in progress]()
+    - [Plastid CONSULT database](https://drive.google.com/file/d/1ifymaBvHK6LmAYK8mpcnFTq9GsR2W0af/view?usp=sharing)
    
 <!--* Query summary reports and distance matrices used for simulation experiment with overlapping contaminants:
     - [Dros_contam_overlap_k35_conf0.0.zip](https://github.com/noraracht/kraken_raw_data/blob/master/Dros_contam_overlap_k35_conf0.0.zip)-->
