@@ -74,10 +74,10 @@ This repository contains raw data and output reports we used for the study.
         - [Filtered vs unfiltered](https://github.com/noraracht/lsh_scripts/blob/main/combined_horizontal_mitoS_filt_unfilt_full.csv)
         - [All conditions](https://github.com/noraracht/lsh_scripts/blob/main/combined_mitoS_filt_unfilt_originalDanish_full.csv)
 
-* Chloroplast assembly (upload in progress):
+* Chloroplast assembly:
     * Original sequencing data:
-        - [Filtered reads]()
-        - [Unfiltered reads]()
+        - [Filtered reads-upload in progress]()
+        - [Unfiltered reads-upload in progress]()
         
    * Assemblies:
         - [From filtered reads](https://drive.google.com/file/d/1UcI9xt_sxUjZ-vb0Pp-BdkBDkJBgQxYz/view?usp=sharing)
