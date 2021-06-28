@@ -76,12 +76,12 @@ This repository contains raw data and output reports we used for the study.
 
 * Chloroplast assembly:
     * Original sequencing data:
-        - [Filtered reads-upload in progress]()
-        - [Unfiltered reads-upload in progress]()
+        - [Filtered reads - upload in progress]()
+        - [Unfiltered reads - upload in progress]()
         
    * Assemblies:
         - [From filtered reads](https://drive.google.com/file/d/1UcI9xt_sxUjZ-vb0Pp-BdkBDkJBgQxYz/view?usp=sharing)
-        - [From unfiltered reads]()
+        - [From unfiltered reads](https://drive.google.com/file/d/1IaCjlCOo3goDKIci6zsWH70A34CUGO4C/view?usp=sharing)
        
     * Annotations:
         - [Outputs](https://drive.google.com/file/d/1gyLmDUmMlMrWpsDvf8VpgUspL3ktA1wc/view?usp=sharing)
