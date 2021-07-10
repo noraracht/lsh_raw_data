@@ -77,7 +77,7 @@ This repository contains raw data and output reports we used for the study.
 * Chloroplast assembly:
     * Original sequencing data:
         - [Filtered reads](https://drive.google.com/file/d/1vTh5z2BF81hDkA-ektXkVBunLLZ4pKzr/view?usp=sharing)
-        - [Unfiltered reads - upload in progress]()
+        - [Unfiltered reads](https://tera-trees.com/data/consult/v1.0.0/fastq_beforefilt.tar.gz)
         
    * Assemblies:
         - [From filtered reads](https://drive.google.com/file/d/1UcI9xt_sxUjZ-vb0Pp-BdkBDkJBgQxYz/view?usp=sharing)
